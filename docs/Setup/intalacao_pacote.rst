@@ -109,6 +109,6 @@ Na página de edição de layout, clique em **Botões**, nesse momento verá que
     :alt: Solidity logo
     :align: center
     
-    Botão adcionado no layout
+    Botão adicionado no layout
 
 

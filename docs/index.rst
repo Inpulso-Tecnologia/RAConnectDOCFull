@@ -24,6 +24,7 @@ Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documen
     :caption: Funcional
 
     Funcional/cadastro_conexao
+    Funcional/interacao_reclamacao
 
     
 .. .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html

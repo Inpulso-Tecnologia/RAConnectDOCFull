@@ -3,16 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Falae Core - Versão Lightning
+RAConnect - Versão Lightning
 ========
 
 .. Alterar para `versão classic`_
 
-
-.. image:: WhatsApp-Messenger.png
-    :width: 100px
-    :alt: Solidity logo
-    :align: center 
     
 Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documento será possível verificar todas as funcionalidades e suas configurações, além da instalação da própria aplicação.
 

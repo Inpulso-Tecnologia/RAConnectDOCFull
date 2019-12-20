@@ -55,10 +55,10 @@ source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
 master_doc = 'index'
 
 # General information about the project.
-project = u'Falae Core'
+project = u'RA Connect'
 copyright = u''
 # copyright = u'JrTech Soluções em Tecnologia'
-author = u'Brener Badures'
+author = u'Patrick Albino'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

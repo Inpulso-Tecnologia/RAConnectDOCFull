@@ -18,21 +18,10 @@ Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documen
    
    Setup/intalacao_pacote
 
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Desinstalação
-    
-    Desinstalacao
-
    
 .. toctree::
     :maxdepth: 2
     :caption: Funcional
-
-    Funcional/Cadastro_Parametro
-    Funcional/Cadastro_Parametro_Mob
-    Funcional/Inbox do Whatsapp
 
     
 .. .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html

@@ -10,7 +10,7 @@ Registro de Domínio para a Organização
 
 Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio o mesmo deve, através da barra de pesquisa acessada pelo botão Configuração, procurar por "Meu Domínio".
 
-.. figure:: instalacao4.png
+.. figure:: dominio1.png
     :width: 250px
     :alt: Solidity logo
     :align: center
@@ -19,7 +19,7 @@ Para que o pacote possa ser baixado primariamente o usuário deve possuir uma or
 
 Caso não tenha domínio cadastrado, deve-se escolher um nome para o domínio e verificar a validade do mesmo.
 
-.. figure:: instalacao6.png
+.. figure:: dominio2.png
     :width: 620px
     :alt: Solidity logo
     :align: center
@@ -30,14 +30,14 @@ Após a validação confirmada, registrar o domínio do mesmo. Após o registro 
 
 Após logar, vá para a tela do "Meu domínio" novamente e clique em "Efetuar login".
 
-.. figure:: instalacao5.png
+.. figure:: dominio3.png
     :width: 600px
     :alt: Solidity logo
     :align: center
 
 Efetuado login, clique em "Implantar para usuários".
 
-.. figure:: instalacao10.png
+.. figure:: dominio4.png
     :width: 600px
     :alt: Solidity logo
     :align: center
@@ -79,5 +79,36 @@ Depois da confirmação das opções anteriores, o download começará normalmen
     
     Painel de aplicações
         
+
+Adicionando botão de Interação da aplicação
+-----------------------
+
+Na aplicação do RA Connect é possível interagir com a reclamação traziadas do **Reclama Aqui**, todas as reclamações viram **Casos** no Salesforce.
+Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferencia da Organização.
+
+Vá até o layout de página de Caso e clique em editar no layout onde irá inserir o botão. Na figura a seguir será inserido no **Case Layout**.
+
+.. figure:: layoutsCaso.png
+    :width: 620px
+    :alt: Solidity logo
+    :align: center
+    
+    Layouts de página de Caso
+
+Na página de edição de layout, clique em **Botões**, nesse momento verá que tem botão chamado **Interagir à reclamação**, arraste ele até o campo de **Botões personalizados**, como é demonstrado nas figuras a seguir.
+
+.. figure:: botaoReclamacao.png
+    :width: 620px
+    :alt: Solidity logo
+    :align: center
+    
+    Botão personalinado "Interagir à reclamação"
+
+.. figure:: botaoReclamacaoInserido.png
+    :width: 620px
+    :alt: Solidity logo
+    :align: center
+    
+    Botão adcionado no layout
 
 

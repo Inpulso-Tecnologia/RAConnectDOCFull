@@ -23,5 +23,7 @@ Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documen
     :maxdepth: 2
     :caption: Funcional
 
+    Funcional/cadastro_conexao
+
     
 .. .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html

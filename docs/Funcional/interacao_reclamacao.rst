@@ -59,7 +59,7 @@ Para solicitar a avaliação terá que cumprir as seguintes condições:
 	- A última interação pública exigida há menos de 3 dias.
 	- A reclamação não deve estar avaliada.
 
-.. figure:: img/solicitarAvalicao.png
+.. figure:: img/solicitarAvaliacao.png
     :width: 500px
     :alt: Solidity logo
     :align: center
@@ -75,7 +75,7 @@ Solicitar Moderação
 
 Solicita uma revisão da reclamação para a equipe de qualidade da **Reclame Aqui**.
 
-.. figure:: img/solicitarReclamacao.png
+.. figure:: img/solicitarModeracao.png
     :width: 500px
     :alt: Solidity logo
     :align: center

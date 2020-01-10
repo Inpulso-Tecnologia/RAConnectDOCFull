@@ -13,7 +13,7 @@ Para interagir com alguma reclamação, será necessário ir no caso relacionado
     
     Botão Interagir à Reclamação
 
-.. Hint:: Só é possível interagir à casos criados através da nossa aplicação, caso seja um caso não vinculado com nossa aplicação ou que tenha perdindo o vinculo com a **Reclame Aqui** aparecerá uma mensagem de erro. 
+.. Hint:: Só é possível interagir à casos criados através da nossa aplicação, caso seja um caso não vinculado com nossa aplicação ou que tenha perdido o vinculo com a **Reclame Aqui** aparecerá uma mensagem de erro. 
 
 
 Responder Publicamente

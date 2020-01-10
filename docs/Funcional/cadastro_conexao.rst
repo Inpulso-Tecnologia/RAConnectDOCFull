@@ -45,7 +45,7 @@ Definições dos campos:
 
 **Nome exclusivo da Fila**: será a fila atribuída como proprietária às reclamações captadas pela conexão.
 
-.. Hint:: Atribui registros a equipes que compartilham atividades. Para mais informações acesse o seguinte link: https://help.salesforce.com/articleView?id=setting_up_queues.htm
+.. Hint:: Fila atribui registros a equipes que compartilham atividades. Para mais informações acesse o seguinte link: https://help.salesforce.com/articleView?id=setting_up_queues.htm
 
 **Usuário do RA API**: usuário da **API da Reclame Aqui**, "RA API". 
 

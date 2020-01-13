@@ -6,7 +6,7 @@ Painel de Sincronização
 No painel de sincronização, mostrará o status das suas conexões. 
 Assim que uma nova conexão for criada, a mesma irá carregar todas as reclamações vinculada a mesma. Essas reclamações serão convertidos em **CASOS** do Salesforce, as interações daquela reclamação serão convertidos em **COMENTARIOS DO CASO** e o consumidor que criou a reclamação vira o **CONTATO** do Salesforce vinculado à esse **CASO**. 
 
-.. Hint:: Para saber mais sobre a conversão das reclamações para objetos do Salesforce veja em: `Relação de Objetos`_
+.. Hint:: Para saber mais sobre a conversão das reclamações para objetos do Salesforce veja em: doc:`Relação de Objetos <Funcional/relacao_objetos>`
 
 Nesse painel mostra os seguintes status que uma conexão pode ter, como **Conexão Sincronizando**, **Conexão Atualizada**, **Falha**, **Conexão Desativada**. As figuras a seguir demosntram os status comentados.
 

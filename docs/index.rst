@@ -27,6 +27,7 @@ Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documen
     Funcional/painel_sincronizacao
     Funcional/interacao_reclamacao
     Funcional/relacao_objetos
+    Funcional/fila
 
     
 .. .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html

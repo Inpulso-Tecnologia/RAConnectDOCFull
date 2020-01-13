@@ -14,92 +14,46 @@ Nesse painel mostra os seguintes status que uma conexão pode ter, como **Conex�
 -----------------------
 
 .. figure:: img/conexaoSincronizando.png
-    :width: 600px
+    :width: 800px
     :alt: Solidity logo
     :align: center
     
     Status da conexão quando estiver atualizando.
 
+Nesse status, a conexão estará baixando e convertendo as reclamações para o salesforce.
+
 **Conexão Atualizada**
 -----------------------
 
 .. figure:: img/conexaoAtualizada.png
-    :width: 600px
+    :width: 800px
     :alt: Solidity logo
     :align: center
     
     Status da conexão quando estiver atualizada.
 
+Nesse status, a conexão mostrará quando foi feito a última atualização e quando será feito a próxima.
+
 **Falha**
 -----------------------
 
 .. figure:: img/conexaoError.png
-    :width: 600px
+    :width: 800px
     :alt: Solidity logo
     :align: center
     
     Status da conexão quando acontece algum erro durante a atualização.
 
+Nesse status, a conexão mostrará quando foi feito a última atualização e quando será feito a próxima e o erro que aconteceu na última vez que tentou atualizar as reclamações.
+
 **Conexão Desativada**
 -----------------------
 
 .. figure:: img/conexaoInativa.png
-    :width: 600px
+    :width: 800px
     :alt: Solidity logo
     :align: center
     
     Status da conexão quando ela estiver desativada.
 
-
-.. _Relação de Objetos : /Funcional/relacao_objetos.html
-
-
-
-
-
-
-
-
-
-
-
-.. figure:: img/aplicativoRAConnect.png
-    :width: 600px
-    :alt: Solidity logo
-    :align: center
-    
-    Aplicativo do RA Connect.
-
-Agora vá na aba do **Conexões do RA** e clique em novo ou clique na aba e clique em Criar Conexão do RA, como na figura a seguir:
-
-.. figure:: img/criarConexao.png
-    :width: 600px
-    :alt: Solidity logo
-    :align: center
-    
-    Botão Criar Conexão do RA.
-
-Após clicar em nova conexão aparece a seguinte tela:
-
-.. figure:: img/cadastroConexao.png
-    :width: 600px
-    :alt: Solidity logo
-    :align: center
-    
-    Cadastro de uma nova conexão do RA Connect.
-
-Definições dos campos:
-
-**Intervalo de Sincronização (em Minutos)**: marca a periodicidade de atualização da conexão (em minutos). 
-
-**Ativo**: apenas conexões ativas serão atualizadas de acordo do intervalo de sincronização. 
-
-**Nome exclusivo da Fila**: será a fila atribuída como proprietária às reclamações captadas pela conexão.
-
-.. Hint:: Fila atribui registros a equipes que compartilham atividades. Para mais informações acesse o seguinte link: https://help.salesforce.com/articleView?id=setting_up_queues.htm
-
-**Usuário do RA API**: usuário da **API da Reclame Aqui**, "RA API". 
-
-**Senha do RA API**: senha da **API da Reclame Aqui**, "RA API". 
-
-.. Hint:: Caso não tenha **Usuário e Senha**, será necessário a aquisição do mesmo através do site: https://parasuaempresa.reclameaqui.com.br/ra-api.
+Nesse status, mostra a última vez que a conexão foi atualizada e contém um botão para ativa-lá, caso necessário.

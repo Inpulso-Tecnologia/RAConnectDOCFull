@@ -43,7 +43,7 @@ Definições dos campos:
 
 **Ativo**: apenas conexões ativas serão atualizadas de acordo do intervalo de sincronização. 
 
-**Nome exclusivo da Fila**: será a fila atribuída como proprietária às reclamações captadas pela conexão.
+**Nome exclusivo da Fila**: será a fila atribuída como proprietária às reclamações captadas pela conexão (caso não tenha uma fila que não suporte o objeto **CASO** veja como criar aqui: :doc:`/Funcional/fila`).
 
 .. Hint:: Fila atribui registros a equipes que compartilham atividades. Para mais informações acesse o seguinte link: https://help.salesforce.com/articleView?id=setting_up_queues.htm
 

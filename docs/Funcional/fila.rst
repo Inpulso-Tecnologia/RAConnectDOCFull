@@ -46,26 +46,45 @@ Membros da fila 			  Representa os membros que serão responsável pela fila em
 ============================  ==========================================================
 
 
+.. list-table:: none
+   :widths: 10% 10% 10%
+   :header-rows: 1
 
-+----------------------------+--------------------------------------------------------------------+
-| Campo                      | Descrição                                                          | 
-+============================+====================================================================+
-| Rótulo                     | Será o nome da fila, podendo conter espaço e caracteres especiais. |
-+----------------------------+--------------------------------------------------------------------+
-| Nome da fila               | Será o nome exclusivo da fila, será o nome que será atribuido para |
-|                            | o campo "Nome exclusivo da fila", na conexão ou na empresa.        |
-+----------------------------+--------------------------------------------------------------------+
-| Email da fila              | Será o e-mail que receberá as notificações quando tiver algum      |
-|                            | objeto novo na fila, caso a o campo "Enviar email aos membros"     |
-|                            | esteja marcado.                                                    | 
-+----------------------------+--------------------------------------------------------------------+
-| Enviar email aos membros   | Habilita ou desabilita o envio de notificações por e-mail.         | 
-+----------------------------+--------------------------------------------------------------------+
-| Objetos disponíveis        | Será os objetos em que poderá vincular essa fila, no caso da nossa |
-|                            | aplicação será necessário selecionar o objeto **CASO**.            | 
-+----------------------------+--------------------------------------------------------------------+
-| Membros da fila            | Representa os membros que serão responsável pela fila em questão.  | 
-+----------------------------+--------------------------------------------------------------------+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+
+
++----------------------------+----------------------------------------------------------+
+| Campo                      | Descrição                                                | 
++============================+==========================================================+
+| Rótulo                     | Será o nome da fila, podendo conter espaço e caracteres  |
+|							 | especiais. 												|
++----------------------------+----------------------------------------------------------+
+| Nome da fila               | Será o nome exclusivo da fila, será o nome que será 		|
+| 							 | atribuido para o campo "Nome exclusivo da fila", 		|
+|							 | na conexão ou na empresa.       						    |
++----------------------------+----------------------------------------------------------+
+| Email da fila              | Será o e-mail que receberá as notificações quando tiver  |
+|							 | algum objeto novo na fila, caso a o campo      			|
+|                            | "Enviar email aos membros" esteja marcado.               | 
++----------------------------+----------------------------------------------------------+
+| Enviar email aos membros   | Habilita ou desabilita o envio de notificações por 		|
+|							 | e-mail. 											        | 
++----------------------------+----------------------------------------------------------+
+| Objetos disponíveis        | Será os objetos em que poderá vincular essa fila, 		|
+|                            | no caso da nossa aplicação será necessário selecionar o 	|
+|							 | objeto **CASO**.											| 
++----------------------------+----------------------------------------------------------+
+| Membros da fila            | Representa os membros que serão responsável pela fila em |
+|							 | questão.  												| 
++----------------------------+----------------------------------------------------------+
 
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 

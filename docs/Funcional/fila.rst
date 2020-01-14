@@ -28,30 +28,24 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 .. |br| raw:: html
 
     <br>
-    
-+----------------------------+---------------------------------------------------------------+
-| Campo                      | Descrição                                                     | 
-+============================+===============================================================+
-| Rótulo                     | Será o nome da fila, podendo conter espaço e caracteres 	|br| |
-|							 | especiais. 												     |
-+----------------------------+---------------------------------------------------------------+
-| Nome da fila               | Será o nome exclusivo da fila, será o nome que será 		|br| |
-| 							 | atribuido para o campo "Nome exclusivo da fila", 		|br| |
-|							 | na conexão ou na empresa.       						    	 |
-+----------------------------+---------------------------------------------------------------+
-| Email da fila              | Será o e-mail que receberá as notificações quando tiver  |br| |
-|							 | algum objeto novo na fila, caso a o campo "Enviar email  |br| |
-|                            | aos membros" esteja marcado.                    			     | 
-+----------------------------+---------------------------------------------------------------+
-| Enviar email aos membros   | Habilita ou desabilita o envio de notificações por e-mail.	 |
-+----------------------------+---------------------------------------------------------------+
-| Objetos disponíveis        | Será os objetos em que poderá vincular essa fila, no		|br| |
-|                            | caso da nossa aplicação será necessário selecionar o 	|br| |
-|							 | objeto **CASO**.												 | 
-+----------------------------+---------------------------------------------------------------+
-| Membros da fila            | Representa os membros que serão responsável pela fila em |br| |
-|							 | questão.  													 | 
-+----------------------------+---------------------------------------------------------------+
+
+============================  ==========================================================
+            Campo                                           Descrição
+============================  ==========================================================
+Rótulo						  Será o nome da fila, podendo conter espaço e caracteres 			|br|
+							  especiais.
+Nome da fila  				  Será o nome exclusivo da fila, será o nome que será 				|br|
+							  atribuido para o campo "Nome exclusivo da fila", 					|br|
+							  na conexão ou na empresa.
+Email da fila 				  Será o e-mail que receberá as notificações quando tiver 			|br|
+							  algum objeto novo na fila, caso a o campo 						|br|
+							  "Enviar email aos membros" esteja marcado.
+Enviar email aos membros      Habilita ou desabilita o envio de notificações por e-mail.
+Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no caso 		|br|
+							  da nossa aplicação será necessário selecionar o objeto **CASO**.
+Membros da fila 			  Representa os membros que serão responsável pela fila em 			|br|
+							  questão.
+============================  ==========================================================
 
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 

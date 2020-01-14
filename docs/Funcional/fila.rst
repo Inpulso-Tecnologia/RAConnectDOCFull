@@ -50,6 +50,25 @@ Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no 
 Membros da fila 			  Representa os membros que serão responsável pela fila em questão.
 ============================  ==========================================================
 
+
+============================  ==========================================================
+            Campo                                           Descrição
+============================  ==========================================================
+Rótulo						  Será o nome da fila, podendo conter espaço e caracteres 
+							especiais.
+Nome da fila  				  Será o nome exclusivo da fila, será o nome que será 
+							atribuido para o campo "Nome exclusivo da fila", 
+							na conexão ou na empresa.
+Email da fila 				  Será o e-mail que receberá as notificações quando tiver 
+							algum objeto novo na fila, caso a o campo 
+							"Enviar email aos membros" esteja marcado.
+Enviar email aos membros      Habilita ou desabilita o envio de notificações por e-mail.
+Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no caso 
+							da nossa aplicação será necessário selecionar o objeto **CASO**.
+Membros da fila 			  Representa os membros que serão responsável pela fila em 
+							questão.
+============================  ==========================================================
+
 .. list-table:: Title
    :widths: 25 55
    :header-rows: 1

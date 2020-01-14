@@ -46,19 +46,7 @@ Membros da fila 			  Representa os membros que serão responsável pela fila em
 ============================  ==========================================================
 
 
-.. list-table:: none
-   :widths: 10% 10% 10%
-   :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
 
 
 +----------------------------+----------------------------------------------------------+
@@ -71,8 +59,8 @@ Membros da fila 			  Representa os membros que serão responsável pela fila em
 | 							 | atribuido para o campo "Nome exclusivo da fila", 		|
 |							 | na conexão ou na empresa.       						    |
 +----------------------------+----------------------------------------------------------+
-| Email da fila              | Será o e-mail que receberá as notificações quando tiver  |
-|							 | algum objeto novo na fila, caso a o campo      			|
+| Email da fila              | Será o e-mail que receberá as notificações quando   		|
+|							 | tiver algum objeto novo na fila, caso a o campo   		|
 |                            | "Enviar email aos membros" esteja marcado.               | 
 +----------------------------+----------------------------------------------------------+
 | Enviar email aos membros   | Habilita ou desabilita o envio de notificações por 		|

@@ -25,40 +25,20 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
 
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
++----------+----------+----------+
+| Header 1 | Header 2 | Header 3 |
++==========+==========+==========+
+| | Item 1 |          |          |
+| | Item 2 |          |          |
++----------+----------+----------+
 
-=====  =====
-col 1  col 2
-=====  =====
-1      Second column of row 1.
-2      Second column of row 2.
-       Second line of paragraph.
-3      - Second column of row 3.
-
-       - Second item in bullet
-         list (row 3, column 2).
-\      Row 4; column 1 will be empty.
-=====  =====
-
-============================  ==========================================================
-            Campo                                           Descrição
-============================  ==========================================================
-Rótulo						  Será o nome da fila, podendo conter espaço e caracteres especiais.
-Nome da fila  				  Será o nome exclusivo da fila, será o nome que será atribuido para o campo "Nome exclusivo da fila", na conexão ou na empresa.
-Email da fila 				  Será o e-mail que receberá as notificações quando tiver algum objeto novo na fila, caso a o campo "Enviar email aos membros" esteja marcado.
-Enviar email aos membros      Habilita ou desabilita o envio de notificações por e-mail.
-Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no caso da nossa aplicação será necessário selecionar o objeto **CASO**.
-Membros da fila 			  Representa os membros que serão responsável pela fila em questão.
-============================  ==========================================================
-
-.. list-table::
-   :header-rows: 1
-   :widths: 1 2
-
-   * - Header A1 (Centre, 1/3)
-     - Header B1 (Right, 2/3)
-
-   * - DATA A1
-     - DATA B1
++----------+----------+----------+
+| Header 1 | Header 2 | Header 3 |
++==========+==========+==========+
+| Item 1   |          |          |
+|          |          |          |
+| Item 2   |          |          |
++----------+----------+----------+
 
 
   Campo                      | Descrição                                                 

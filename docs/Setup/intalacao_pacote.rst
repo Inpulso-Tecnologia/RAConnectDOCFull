@@ -8,7 +8,16 @@ O objetivo deste documento é apontar os requisitos necessários e o passo-a-pas
 Registro de Domínio para a Organização
 -----------------------
 
-Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio o mesmo deve, através da barra de pesquisa acessada pelo botão Configuração, procurar por "Meu Domínio".
+Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio, vá até às configurações através a engrenagem no canto superior direito, como na figura a seguir: 
+
+.. figure:: img/configuracao.png
+    :width: 300px
+    :alt: Solidity logo
+    :align: center
+    
+    Acessando **Configurações** da organização.
+
+A seguir digite na barra de busca rápida **"Meu domínio"** e clique nele, como na figura a seguir:
 
 .. figure:: img/dominio1.png
     :width: 250px

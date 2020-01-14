@@ -39,11 +39,31 @@ col 1  col 2
 \      Row 4; column 1 will be empty.
 =====  =====
 
+============================  ==========================================================
+            Campo                                           Descrição
+============================  ==========================================================
+Rótulo						  Será o nome da fila, podendo conter espaço e caracteres \nespeciais.
+Nome da fila  				  Será o nome exclusivo da fila, será o nome que será \natribuido para o campo "Nome exclusivo da fila", \nna conexão ou na empresa.
+Email da fila 				  Será o e-mail que receberá as notificações quando tiver \nalgum objeto novo na fila, caso a o campo \n"Enviar email aos membros" esteja marcado.
+Enviar email aos membros      Habilita ou desabilita o envio de notificações por e-mail.
+Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no caso \nda nossa aplicação será necessário selecionar o objeto **CASO**.
+Membros da fila 			  Representa os membros que serão responsável pela fila em \nquestão.
+============================  ==========================================================
+
 +--------------+----------+-----------+-----------+
 | row 1, col 1 | column 2 | column 3  | column 4  |
 +--------------+----------+-----------+-----------+
 | row 2        | Use the command ``ls | more``.   |
-|              |                                  |
+|              | Use the command ``ls | more``.   |
++--------------+----------+-----------+-----------+
+| row 3        |          |           |           |
++--------------+----------+-----------+-----------+
+
++--------------+----------+-----------+-----------+
+| row 1, col 1 | column 2 | column 3  | column 4  |
++--------------+----------+-----------+-----------+
+| row 2        | Use the command  ``ls | more``.  |
+|              | Use the command ``ls   more``.   |
 +--------------+----------+-----------+-----------+
 | row 3        |          |           |           |
 +--------------+----------+-----------+-----------+

@@ -25,11 +25,6 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
 
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
-.. |br| raw:: html
-
-    <br>
-
-
 +--------------------------+---------------------------------------------------------------------------+
 |           Campo          |                                Descrição                                  |
 +==========================+===========================================================================+
@@ -91,3 +86,7 @@ Fila Empresa
     Nome da fila que será proprietária das reclamações dessa empresa.
 
 O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados dessa empresa.
+
+.. |br| raw:: html
+
+    <br>

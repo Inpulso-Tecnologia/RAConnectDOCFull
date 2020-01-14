@@ -38,23 +38,19 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
              accuracy at Point Atkinson
 ===========  ===================================================  ==============  ==================
 
-============================  ======================================================================
+========================  ======================================================================
             Campo                                           Descrição
-============================  ======================================================================
-Rótulo						  Será o nome da fila, podendo conter espaço e caracteres 			|br|
-							  especiais.
-Nome da fila  				  Será o nome exclusivo da fila, será o nome que será 				|br|
-							  atribuido para o campo "Nome exclusivo da fila", 					|br|
-							  na conexão ou na empresa.
-Email da fila 				  Será o e-mail que receberá as notificações quando tiver 			|br|
-							  algum objeto novo na fila, caso a o campo 						|br|
-							  "Enviar email aos membros" esteja marcado.
-Enviar email aos membros      Habilita ou desabilita o envio de notificações por e-mail.
-Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no caso 		|br|
-							  da nossa aplicação será necessário selecionar o objeto **CASO**.
-Membros da fila 			  Representa os membros que serão responsável pela fila em 			|br|
-							  questão.
-============================  ======================================================================
+========================  ======================================================================
+Rótulo					  Será o nome da fila, podendo conter espaço e caracteres especiais.
+Nome da fila  			  Será o nome exclusivo da fila, será o nome que será atribuido para |br|
+						  o campo "Nome exclusivo da fila", na conexão ou na empresa.
+Email da fila 			  Será o e-mail que receberá as notificações quando tiver algum objeto |br|
+						  novo na fila, caso a o campo "Enviar email aos membros" esteja marcado.
+Enviar email aos membros  Habilita ou desabilita o envio de notificações por e-mail.
+Objetos disponíveis		  Será os objetos em que poderá vincular essa fila, no caso da nossa |br|
+						  aplicação será necessário selecionar o objeto **CASO**.
+Membros da fila 		  Representa os membros que serão responsável pela fila em questão.
+========================  ======================================================================
 
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 

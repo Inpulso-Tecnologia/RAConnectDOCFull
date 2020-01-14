@@ -29,9 +29,18 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 
     <br>
 
-============================  ==========================================================
+===========  ===================================================  ==============  ==================
+ Date                       Change                                New Value       Changeset
+===========  ===================================================  ==============  ==================
+27-Oct-2014  1st das run results                                  N/A
+20-Nov-2014  1st                   run results                    N/A
+26-Nov-2014  Changed to tidal forcing tuned for better |br|       see changeset   efa8c39a9a7c_
+             accuracy at Point Atkinson
+===========  ===================================================  ==============  ==================
+
+============================  ======================================================================
             Campo                                           Descrição
-============================  ==========================================================
+============================  ======================================================================
 Rótulo						  Será o nome da fila, podendo conter espaço e caracteres 			|br|
 							  especiais.
 Nome da fila  				  Será o nome exclusivo da fila, será o nome que será 				|br|
@@ -45,7 +54,7 @@ Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no 
 							  da nossa aplicação será necessário selecionar o objeto **CASO**.
 Membros da fila 			  Representa os membros que serão responsável pela fila em 			|br|
 							  questão.
-============================  ==========================================================
+============================  ======================================================================
 
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 

@@ -25,6 +25,10 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
 
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
+.. |br| raw:: html
+
+    <br>
+    
 +----------------------------+---------------------------------------------------------------+
 | Campo                      | Descrição                                                     | 
 +============================+===============================================================+

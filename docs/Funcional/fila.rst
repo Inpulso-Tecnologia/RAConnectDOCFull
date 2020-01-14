@@ -26,10 +26,10 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
 
-							  																
-============================  ==============================================================
+						  																				
+============================  ==========================================================
             Campo                                           Descrição
-============================  ==============================================================
+============================  ==========================================================
 Rótulo						  Será o nome da fila, podendo conter espaço e caracteres 
 							especiais.
 Nome da fila  				  Será o nome exclusivo da fila, será o nome que será 
@@ -43,7 +43,7 @@ Objetos disponíveis			  Será os objetos em que poderá vincular essa fila, no 
 							da nossa aplicação será necessário selecionar o objeto **CASO**.
 Membros da fila 			  Representa os membros que serão responsável pela fila em 
 							questão.
-============================  ==============================================================
+============================  ==========================================================
 
 
 

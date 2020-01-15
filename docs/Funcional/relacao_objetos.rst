@@ -2,9 +2,9 @@
 Relação de Objetos
 #################
 
-Neste tópico estaremos falando sobre o relacionamento entre as reclamações do **Reclame Aqui** com os objetos que o RA Connect utiliza no salesforce.
+Neste tópico estaremos falando sobre o relacionamento entre as reclamações do **Reclame Aqui** com os objetos que o RA Connect utiliza no Salesforce.
 
-Reclamação X Caso
+Reclamação
 -----------------------
 
 .. figure:: img/casoReclamacao.png
@@ -14,9 +14,9 @@ Reclamação X Caso
     
     Caso criado a partir de uma reclamação.
 
-As reclamações baixadas pela conexão serão transformadas em **casos** no salesforce, dados da reclamação como o titulo, interações e quem abriu a reclamação serão transformadas em dados do **caso** criado.
+As reclamações baixadas pela conexão serão transformadas em **casos** no Salesforce, dados da reclamação como o titulo, interações e quem abriu a reclamação serão transformadas em dados do **caso** criado.
 
-Interação X Comentário do Caso
+Interação
 -----------------------
 
 .. figure:: img/comentarioInteracao.png
@@ -28,7 +28,7 @@ Interação X Comentário do Caso
 
 Todas as interações públicas serão registradas como **comentário do caso**.
 
-Consumidor X Contato
+Consumidor
 -----------------------
 
 .. figure:: img/contatoCaso.png
@@ -38,7 +38,7 @@ Consumidor X Contato
     
     Contato vinculado ao caso.
 
-Esse **contato** é o que será representante do consumidor dentro do salesforce.
+Esse **contato** é o representante do consumidor dentro do Salesforce.
 
 .. figure:: img/contatoConsumidor.png
     :width: 600px
@@ -49,4 +49,4 @@ Esse **contato** é o que será representante do consumidor dentro do salesforce
 
 Os dados do consumidor abastecerá os dados do **contato**.
 
-.. Hint:: Caso tenha um contato já existente do consumidor no salesforce (a base de identificação é o campo Email), será atribuida à esse contato todos as reclamações relacionadas ao consumidor, caso contrário será criado um novo contato e as reclamações serão vinculadas ao mesmo.
+.. Hint:: Caso tenha um contato já existente do consumidor no Salesforce (a base de identificação é o campo Email), será atribuida à esse contato todos as reclamações relacionadas ao consumidor, caso contrário será criado um novo contato e as reclamações serão vinculadas ao mesmo.

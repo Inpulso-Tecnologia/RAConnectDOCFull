@@ -44,8 +44,6 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 | Membros da fila          | Representa os membros que serão responsável pela fila em questão.         |
 +--------------------------+---------------------------------------------------------------------------+
 
-
-
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 
 .. figure:: img/exemploFila1.png
@@ -72,11 +70,10 @@ Fila Conexão
     
     Nome da fila padrão da conexão.
 
-O campo "Nome Exclusivo da Fila", na conexão é um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados, caso a empresa não tenha uma fila registrada.
+O campo "Nome Exclusivo da Fila", na conexão é um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados pela integração, caso a empresa não tenha uma fila registrada.
 
 Fila Empresa
 -----------------------
-
 
 .. figure:: img/filaEmpresa.png
     :width: 600px
@@ -86,6 +83,12 @@ Fila Empresa
     Nome da fila que será proprietária das reclamações dessa empresa.
 
 O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados dessa empresa.
+
+Fila Empresa
+-----------------------
+
+A fila cadastrada na conexão será a proprietária dos **casos** integrados com o Salesforce, caso não haja uma **fila** cadastrada na **Empresa do RA**, se houver uma **fila** cadastrada na **Empresa do RA**, essa **fila** será a proprietária do **caso**.
+Se tivermos várias **Empresas do RA** associadas à mesma **conexão**, cada empresa poderá ter sua própria fila, caso contrário será atribuido com a fila padrão da conexão.
 
 .. |br| raw:: html
 

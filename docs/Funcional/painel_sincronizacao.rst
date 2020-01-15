@@ -57,3 +57,16 @@ Nesse status, a conexão mostrará quando foi feito a última atualização e qu
     Status da conexão quando ela estiver desativada.
 
 Nesse status, mostra a última vez que a conexão foi atualizada e contém um botão para ativa-lá, caso necessário.
+
+
+Sincronização desativada
+-----------------------
+
+.. figure:: img/sincronizacao.png
+    :width: 600px
+    :alt: Solidity logo
+    :align: center
+    
+    Sincronização desativada.
+
+Caso a sincronização seja desativada, é possível ativá-la clicando no botão "Ativar Sincronização", para isso o usuário terá permissão para agendar um *trabalho agendado* na organização.

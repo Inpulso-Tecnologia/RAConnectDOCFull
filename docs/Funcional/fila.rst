@@ -47,7 +47,8 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 
 .. figure:: img/exemploFila1.png
-    :width: 500px
+    :width: 400px
+    :height: 500px
     :alt: Solidity logo
     :align: center
     
@@ -61,7 +62,6 @@ A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
     Membros responsáveis pela fila.
 
 \pagebreak 4
-
 Fila Conexão
 -----------------------
 

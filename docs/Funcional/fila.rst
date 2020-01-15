@@ -25,6 +25,36 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
 
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
+.. figure:: img/novaFila.png
+    :width: 350px
+    :alt: Solidity logo
+    :align: center
+    
+    Botão para criar uma nova Fila.
+
+A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
+
+.. figure:: img/exemploFila1.png
+    :width: 400px
+    :alt: Solidity logo
+    :align: center
+    
+    Preenchimento do nome da fila e o endereço de email.
+
+.. figure:: img/exemploFila2.png
+    :width: 400px
+    :alt: Solidity logo
+    :align: center
+    
+    Adicionando os objetos suportados.
+
+.. figure:: img/exemploFila3.png
+    :width: 400px
+    :alt: Solidity logo
+    :align: center
+    
+    Membros responsáveis pela fila.
+
 +--------------------------+---------------------------------------------------------------------------+
 |           Campo          |                                Descrição                                  |
 +==========================+===========================================================================+
@@ -44,24 +74,6 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 | Membros da fila          | Representa os membros que serão responsável pela fila em questão.         |
 +--------------------------+---------------------------------------------------------------------------+
 
-A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
-
-.. figure:: img/exemploFila1.png
-    :width: 400px
-    :height: 500px
-    :alt: Solidity logo
-    :align: center
-    
-    Preenchimento de uma nova fila como exemplo.
-
-.. figure:: img/exemploFila2.png
-    :width: 500px
-    :alt: Solidity logo
-    :align: center
-    
-    Membros responsáveis pela fila.
-
-\pagebreak 4
 Fila Conexão
 -----------------------
 

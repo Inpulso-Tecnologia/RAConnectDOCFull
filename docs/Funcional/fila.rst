@@ -60,6 +60,8 @@ A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
     
     Membros responsáveis pela fila.
 
+\pagebreak 4
+
 Fila Conexão
 -----------------------
 

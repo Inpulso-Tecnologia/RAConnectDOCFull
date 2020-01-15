@@ -30,7 +30,7 @@ Envia uma mensagem pública ao consumidor.
 
 Definições dos campos:
 
-Descrição: será a mensagem enviada para o consumidor.
+**Descrição**: será a mensagem enviada para o consumidor.
 
 Responder por Email
 -----------------------
@@ -46,18 +46,14 @@ Envia uma mensagem privada via e-mail ao consumidor.
 
 Definições dos campos:
 
-E-mail: será o endereço de e-mail do consumidor que receberá a mensagem.
+**E-mail**: será o endereço de e-mail do consumidor que receberá a mensagem.
 
-Descrição: será a mensagem enviada para o consumidor.
+**Descrição**: será a mensagem enviada para o consumidor.
 
 Solicitar Avaliação
 -----------------------
 
 Solicita ao consumidor que avalie a reclamação, o pedido será enviado por e-mail de registro do consumidor. 
-Para solicitar a avaliação terá que cumprir as seguintes condições:
-	- A última interação pública deve ser da empresa.
-	- A última interação pública exigida há menos de 3 dias.
-	- A reclamação não deve estar avaliada.
 
 .. figure:: img/solicitarAvaliacao.png
     :width: 500px
@@ -68,7 +64,7 @@ Para solicitar a avaliação terá que cumprir as seguintes condições:
 
 Definições dos campos:
 
-Descrição: será a mensagem enviada para o consumidor.
+**Descrição**: será a mensagem enviada para o consumidor.
 
 Solicitar Moderação
 -----------------------
@@ -84,6 +80,6 @@ Solicita uma revisão da reclamação para a equipe de qualidade da **Reclame Aq
 
 Definições dos campos:
 
-Motivo: motivo para a revisão da reclamação.
+**Motivo**: motivo para a revisão da reclamação.
 
-Descrição: será a mensagem enviada para a equipe de qualidade da **Reclame Aqui**.
+**Descrição**: será a mensagem enviada para a equipe de qualidade da **Reclame Aqui**.

@@ -34,7 +34,7 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 |                          | o campo "Nome exclusivo da fila", na conexão ou na empresa.               |
 +--------------------------+---------------------------------------------------------------------------+
 | Email da fila            | Será o e-mail que receberá as notificações quando tiver algum objeto |br| |
-|                          | novo na fila, caso a o campo "Enviar email aos membros" esteja marcado.   |
+|                          | novo na fila, caso  o campo "Enviar email aos membros" esteja marcado.    |
 +--------------------------+---------------------------------------------------------------------------+
 | Enviar email aos membros | Habilita ou desabilita o envio de notificações por e-mail.                |
 +--------------------------+---------------------------------------------------------------------------+

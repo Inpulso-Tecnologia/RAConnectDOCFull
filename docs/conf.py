@@ -56,9 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'RA Connect'
-copyright = '2019-{}, Inpulso Tecnologia'.format(
-    timezone.now().year
-)
+copyright = '2019-2020, Inpulso Tecnologia'
 # copyright = u'JrTech Soluções em Tecnologia'
 author = u'Patrick Albino'
 

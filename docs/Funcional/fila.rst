@@ -84,7 +84,7 @@ Fila Empresa
 
 O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados dessa empresa.
 
-Fila Empresa
+Regras da Fila
 -----------------------
 
 A fila cadastrada na conexão será a proprietária dos **casos** integrados com o Salesforce, caso não haja uma **fila** cadastrada na **Empresa do RA**, se houver uma **fila** cadastrada na **Empresa do RA**, essa **fila** será a proprietária do **caso**.

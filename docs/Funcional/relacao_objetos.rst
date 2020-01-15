@@ -26,7 +26,7 @@ Interação
     
     Comentário do caso, criado a partir de uma interação da reclamação.
 
-Todas as interações públicas serão registradas como **comentário do caso**.
+As interações relacionada àquela reclamação serão registradas como **comentário do caso**.
 
 Consumidor
 -----------------------

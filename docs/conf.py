@@ -192,7 +192,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
+text_newlines = 'native'
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.

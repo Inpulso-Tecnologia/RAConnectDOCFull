@@ -138,9 +138,6 @@ latex_engine = 'pdflatex'
 # latex_toplevel_sectioning = 'section'
 latex_logo = 'img/logo.png'
 latex_elements = {
-    'fontpkg': r''' \setmainfont{DejaVu Serif}
-                \setsansfont{DejaVu Sans}
-                \setmonofont{DejaVu Sans Mono}''',
     'figure_align': 'H'
 }
 

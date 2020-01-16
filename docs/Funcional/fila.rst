@@ -5,7 +5,7 @@ Filas
 Neste tópico estaremos falando sobre filas de usuários no Salesforce e como utilizamos essa funcionalidade na nossa aplicação.
 Antes de registrar uma conexão é necessário ter um fila com suporte ao objeto **CASO**, caso não tenha uma fila com suporte a esse objeto, mostraremos como criar seguir.
 
-Para criar uma **Fila**, vá até às configurações através a engrenagem no canto superior direito, como na figura a seguir:
+Para criar uma **Fila**, vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
 
 .. figure:: img/configuracao.png
     :width: 300px

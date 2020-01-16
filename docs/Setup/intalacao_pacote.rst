@@ -93,10 +93,35 @@ Adicionando botão de Interação da aplicação
 
 Na aplicação do RA Connect é possível interagir com a reclamação traziada do **Reclama Aqui**, todas as reclamações viram **Casos** no Salesforce.
 Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferencia da Organização.
-Para isso vá até as **Configuração** (fica na engrenagem no canto superior do site) > **Gerenciador de objetos** > **Caso**. 
 
+Para isso vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
 
-Vá até o layout de página de Caso e clique em editar no layout onde irá inserir o botão. Na figura a seguir será inserido no **Case Layout**.
+.. figure:: img/configuracao.png
+    :width: 300px
+    :alt: Solidity logo
+    :align: center
+    
+    Acessando **Configurações** da organização.
+
+Após isso, acesse o **Gerenciador de Objetos**, como na figura a seguir:
+
+.. figure:: img/gerenciadorObjetos.png
+    :width: 300px
+    :alt: Solidity logo
+    :align: center
+    
+    Acessando o **Gerenciador de Objetos** na configuração da organização.
+
+Agora busque e clique no objeto **Caso**, como na figura a seguir:
+
+.. figure:: img/objetoCaso.png
+    :width: 300px
+    :alt: Solidity logo
+    :align: center
+    
+    Acessando o objeto **Caso** no gerenciador de objetos.
+
+Agora, vá até o layout de página de Caso e clique em editar no layout onde irá inserir o botão. Na figura a seguir será inserido no **Case Layout**.
 
 .. figure:: img/layoutsCaso.png
     :width: 500px

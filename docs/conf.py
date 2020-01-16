@@ -136,7 +136,6 @@ latex_engine = 'uplatex'
 latex_show_urls = 'inline'
 latex_show_pagerefs = 'true'
 latex_toplevel_sectioning = 'section'
-latex_docclass = 'report'
 latex_logo = 'img/logo.png'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').

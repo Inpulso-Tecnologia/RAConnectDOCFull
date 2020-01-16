@@ -132,7 +132,7 @@ htmlhelp_basename = 'docs'
 
 
 # -- Options for LaTeX output ---------------------------------------------
-latex_engine = 'uplatex'
+latex_engine = 'pdflatex'
 latex_show_urls = 'inline'
 latex_show_pagerefs = 'true'
 latex_toplevel_sectioning = 'section'

@@ -104,7 +104,7 @@ Vá até o layout de página de Caso e clique em editar no layout onde irá inse
     
     Layouts de página de Caso
 
-Na página de edição de layout, clique em **Botões**, nesse momento verá que tem botão chamado **Interagir à reclamação**, arraste ele até o campo de **Botões personalizados**, como é demonstrado nas figuras a seguir.
+Na página de edição de layout, clique em **Botões**, nesse momento verá que tem um botão chamado **Interagir à reclamação**, arraste ele até o campo de **Botões personalizados**, como é demonstrado nas figuras a seguir.
 
 .. figure:: img/botaoReclamacao.png
     :width: 620px

@@ -153,7 +153,7 @@ latex_elements = {
 
     # Latex figure (float) alignment
     #
-    'figure_align': 'h'
+    'figure_align': 'hp'
 }
 
 # Grouping the document tree into LaTeX files. List of tuples

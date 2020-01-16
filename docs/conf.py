@@ -138,22 +138,17 @@ latex_engine = 'pdflatex'
 # latex_toplevel_sectioning = 'section'
 latex_logo = 'img/logo.png'
 latex_elements = {
-    # The paper size ('letterpaper' or 'a4paper').
-    #
-    # 'papersize': 'letterpaper',
-
-    # The font size ('10pt', '11pt' or '12pt').
-    #
-    # 'pointsize': '30pt',
-    # 'fontsize': '24pt',
-
-    # Additional stuff for the LaTeX preamble.
-    #
-    # 'preamble': '',
-
-    # Latex figure (float) alignment
-    #
-    'figure_align': 'hp'
+    'fontpkg': r''' \setmainfont{DejaVu Serif}
+                \setsansfont{DejaVu Sans}
+                \setmonofont{DejaVu Sans Mono}''',
+    'preamble': r'''\usepackage[titles]{tocloft}
+                \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+                \setlength{\cftchapnumwidth}{0.75cm}
+                \setlength{\cftsecindent}{\cftchapnumwidth}
+                \setlength{\cftsecnumwidth}{1.25cm}''',
+    'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
+    'printindex': r'\footnotesize\raggedright\printindex',
+    'figure_align': 'H'
 }
 
 # Grouping the document tree into LaTeX files. List of tuples

@@ -137,6 +137,8 @@ latex_engine = 'pdflatex'
 # latex_show_pagerefs = 'true'
 # latex_toplevel_sectioning = 'section'
 latex_logo = 'img/logo.png'
+latex_use_xindy = 'true'
+latex_toplevel_sectioning = 'section'
 latex_elements = {
     'figure_align': 'H'
 }

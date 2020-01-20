@@ -13,7 +13,7 @@ Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documen
 
 .. toctree::
    :maxdepth: 2
-   :caption: Configuração
+   :caption: Primeiros Passos
    
    
    Setup/intalacao_pacote

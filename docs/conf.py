@@ -132,14 +132,17 @@ htmlhelp_basename = 'docs'
 
 
 # -- Options for LaTeX output ---------------------------------------------
-latex_engine = 'pdflatex'
+latex_engine = 'xelatex'
+latex_use_xindy = False
 # latex_show_urls = 'inline'
 # latex_show_pagerefs = 'true'
 # latex_toplevel_sectioning = 'section'
 latex_logo = 'img/logo.png'
 latex_use_xindy = 'true'
-latex_toplevel_sectioning = 'section'
+# latex_toplevel_sectioning = 'section'
 latex_elements = {
+    'preamble': '\\usepackage[UTF8]{ctex}\n',
+    'preamble': None,
     'figure_align': 'H'
 }
 

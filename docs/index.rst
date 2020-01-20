@@ -4,7 +4,7 @@ RAConnect
 Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documento será possível verificar todas as funcionalidades e suas configurações, além da instalação da própria aplicação.
 
 Configuração
------------------
+^^^^^^^^^^^^^
 
 Na etapa de configuração, será apontado os requisitos necessários e o 
 passo-a-passo para a aplicação da funcionalidade e 
@@ -22,7 +22,7 @@ sua configuração em uma nova organização.
    Setup/intalacao_pacote
 
 Funcionalidades
------------------
+^^^^^^^^^^^^^
 
 Nessa parte de funcionalidades, será apontado como utilizar a aplicação
 e as funcionalidades que a aplicação oferece, além de explicar sobre

@@ -15,6 +15,7 @@ sua configuração em uma nova organização.
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Primeiros Passos
    
    
@@ -38,6 +39,7 @@ reclamações, interações da reclamação e consumidor.
    
 .. toctree::
     :maxdepth: 2
+    :hidden:
     :caption: Funcional
 
     Funcional/cadastro_conexao

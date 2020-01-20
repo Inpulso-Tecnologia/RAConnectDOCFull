@@ -141,15 +141,6 @@ latex_logo = 'img/logo.png'
 latex_use_xindy = 'true'
 # latex_toplevel_sectioning = 'section'
 latex_elements = {
-    'preamble': r'''
-\\usepackage[UTF8]{ctex}\n
-\fancyhead[L]{\includegraphics[width=1.00\textwidth,height=5.0mm]{img/header.png}}
-\section{Full Width Left Header}
-\\lipsum[1-5]
-'''
-
-
-    '',
     # 'preamble': None,
     'figure_align': 'H'
 }

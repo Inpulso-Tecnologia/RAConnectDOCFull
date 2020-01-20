@@ -1,28 +1,6 @@
 RAConnect
 ========
 
-
-\documentclass{article}
-\usepackage{amsmath,array}
-\begin{document}
-\[
-x =
-\left\{
-\begin{array}{
-  @{}% no padding
-  l@{\quad}% some padding
-  r@{}% no padding
-  >{{}}r@{}% no padding
-  >{{}}l@{}% no padding
-}
-  d,&         &     I_x &\leq I_p - t \\
-  s,& I_p - t &\leq I_x &\leq I_p + t \\
-  b,& I_p + t &\leq I_x
-\end{array}
-\right.
-\]
-\end{document}
-
 Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documento será possível verificar todas as funcionalidades e suas configurações, além da instalação da própria aplicação.
 
 **Configuração**
@@ -33,14 +11,12 @@ sua configuração em uma nova organização.
 
 * :doc:`Configurando a Organização <Setup/intalacao_pacote>`
 
-
 **Funcional**
 
 Nessa parte de funcionalidades, será apontado como utilizar a aplicação
 e as funcionalidades que a aplicação oferece, além de explicar sobre
 a relação dos Objetos do Salesforce e termos da ReclameAqui, como 
 reclamações, interações da reclamação e consumidor.
-
 
 *  :doc:`Cadastrando nova Conexão <Funcional/cadastro_conexao>`
 *  :doc:`Entenda o Painel de Sincronização <Funcional/painel_sincronizacao>`

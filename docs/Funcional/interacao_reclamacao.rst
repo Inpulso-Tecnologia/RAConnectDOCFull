@@ -7,7 +7,6 @@ Nessa seção será demosntrado as possíveis interações com as reclamações 
 Para interagir com alguma reclamação, será necessário ir no caso relacionado com a reclamação em questão e clicar em expandir os botões de ação, aprecendo a opção **Interagir à Reclamação** como na figura a seguir.
 
 .. figure:: img/interagirReclamacao.png
-    .. :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -22,7 +21,6 @@ Responder Publicamente
 Envia uma mensagem pública ao consumidor.
 
 .. figure:: img/mensagemPublica.png
-    .. :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -38,7 +36,6 @@ Responder por Email
 Envia uma mensagem privada via e-mail ao consumidor.
 
 .. figure:: img/mensagemPrivada.png
-    .. :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -56,7 +53,6 @@ Solicitar Avaliação
 Solicita ao consumidor que avalie a reclamação, o pedido será enviado por e-mail de registro do consumidor. 
 
 .. figure:: img/solicitarAvaliacao.png
-    .. :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -72,7 +68,6 @@ Solicitar Moderação
 Solicita uma revisão da reclamação para a equipe de qualidade da **Reclame Aqui**.
 
 .. figure:: img/solicitarModeracao.png
-    .. :width: 500px
     :alt: Solidity logo
     :align: center
     

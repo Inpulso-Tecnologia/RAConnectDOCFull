@@ -10,13 +10,7 @@ import sphinx_rtd_theme
 
 sys.path.insert(0, os.path.abspath('..'))
 sys.path.append(os.path.dirname(__file__))
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "readthedocs.settings.dev")
 
-from django.conf import settings
-from django.utils import timezone
-
-import django
-django.setup()
 
 
 def get_version():
@@ -24,7 +18,7 @@ def get_version():
     config = RawConfigParser()
     config.read(os.path.join('..', 'setup.cfg'))
     return config.get('metadata', 'version')
-    
+
 # extensions = [
 #     'sphinx.ext.autosummary',
 #     'sphinx.ext.autodoc',

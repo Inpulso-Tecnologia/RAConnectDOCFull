@@ -17,10 +17,9 @@ sua configuração em uma nova organização.
    :hidden:
    :caption: Primeiros Passos
    
-   
    Setup/intalacao_pacote
 
-**Funcionalidades**
+**Funcional**
 
 Nessa parte de funcionalidades, será apontado como utilizar a aplicação
 e as funcionalidades que a aplicação oferece, além de explicar sobre

@@ -150,15 +150,23 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 
-# latex_preamble = r"""
-# \usepackage{amsmath}
-# \usepackage{amssymb}
-# \usepackage{amsbsy}
-# \usepackage{braket}
-# \usepackage{circuitikz}
+latex_preamble = r"""
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{braket}
+\usepackage{circuitikz}
 
-# \newcommand{\vc}[1]{\pmb{#1}}
-# """
+\newcommand{\vc}[1]{\pmb{#1}}
+\fancyhead[L]{\includegraphics[width=1.00\textwidth,height=5.0mm]{img/header.png}}
+
+\section{Full Width Left Header}
+
+\lipsum[1-5]
+"""
+
+
+
 
 latex_documents = [
     (master_doc, 'docs.tex', u'RA Connect',

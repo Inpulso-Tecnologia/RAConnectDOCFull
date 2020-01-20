@@ -8,7 +8,6 @@ Reclamação
 -----------------------
 
 .. figure:: img/casoReclamacao.png
-    :width: 400px
     :alt: Solidity logo
     :align: center
     
@@ -20,7 +19,6 @@ Interação
 -----------------------
 
 .. figure:: img/comentarioInteracao.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -32,7 +30,6 @@ Consumidor
 -----------------------
 
 .. figure:: img/contatoCaso.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -41,7 +38,6 @@ Consumidor
 Esse **contato** é o representante do consumidor dentro do Salesforce.
 
 .. figure:: img/contatoConsumidor.png
-    :width: 600px
     :alt: Solidity logo
     :align: center
     

@@ -14,7 +14,6 @@ Nesse painel mostra os seguintes status que uma conexão pode ter, como **Conex�
 -----------------------
 
 .. figure:: img/conexaoSincronizando.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -26,7 +25,6 @@ Nesse status, a conexão estará baixando e convertendo as reclamações para o 
 -----------------------
 
 .. figure:: img/conexaoAtualizada.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -38,7 +36,6 @@ Nesse status, a conexão mostrará quando foi feito a última atualização e qu
 -----------------------
 
 .. figure:: img/conexaoError.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -50,7 +47,6 @@ Nesse status, a conexão mostrará quando foi feito a última atualização e qu
 -----------------------
 
 .. figure:: img/conexaoInativa.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -63,7 +59,6 @@ Sincronização desativada
 -----------------------
 
 .. figure:: img/sincronizacao.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     

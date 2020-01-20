@@ -5,7 +5,6 @@ Registro de Domínio para a Organização
 Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio, vá até às configurações através a engrenagem no canto superior direito, como na figura a seguir: 
 
 .. figure:: img/configuracao.png
-    :width: 300px
     :alt: Solidity logo
     :align: center
     
@@ -14,7 +13,6 @@ Para que o pacote possa ser baixado primariamente o usuário deve possuir uma or
 A seguir digite na barra de busca rápida **"Meu domínio"** e clique nele, como na figura a seguir:
 
 .. figure:: img/dominio1.png
-    :width: 250px
     :alt: Solidity logo
     :align: center
     
@@ -23,7 +21,6 @@ A seguir digite na barra de busca rápida **"Meu domínio"** e clique nele, como
 Caso não tenha domínio cadastrado, deve-se escolher um nome para o domínio e verificar a validade do mesmo.
 
 .. figure:: img/dominio2.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -34,13 +31,11 @@ Após a validação confirmada, registrar o domínio do mesmo. Após o registro 
 Após logar, vá para a tela do "Meu domínio" novamente e clique em "Efetuar login".
 
 .. figure:: img/dominio3.png
-    :width: 500px
     :align: center
 
 Efetuado login, clique em "Implantar para usuários".
 
 .. figure:: img/dominio4.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -57,7 +52,6 @@ O download do pacote para a sua organização deve ser realizado através do lin
 O login na sua organização será requerido, e após a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
 
 .. figure:: img/downloadPacote.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -66,7 +60,6 @@ O login na sua organização será requerido, e após a realização será autom
 Logo após a confirmação uma notificação aparecerá, sendo necessária a confirmação do seguinte item:
    
 .. figure:: img/aprovacaoAcesso.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -75,7 +68,6 @@ Logo após a confirmação uma notificação aparecerá, sendo necessária a con
 Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do SalesForce.
 
 .. figure:: img/painelAplicacao.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -91,7 +83,6 @@ Para poder interagir com a reclamação será necessário adicionar um botão pe
 Para isso vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
 
 .. figure:: img/configuracao.png
-    :width: 300px
     :alt: Solidity logo
     :align: center
     
@@ -100,7 +91,6 @@ Para isso vá até às configurações através da engrenagem no canto superior 
 Após isso, acesse o **Gerenciador de Objetos**, como na figura a seguir:
 
 .. figure:: img/gerenciadorObjetos.png
-    :width: 300px
     :alt: Solidity logo
     :align: center
     
@@ -109,7 +99,6 @@ Após isso, acesse o **Gerenciador de Objetos**, como na figura a seguir:
 Agora busque e clique no objeto **Caso**, como na figura a seguir:
 
 .. figure:: img/objetoCaso.png
-    :width: 300px
     :alt: Solidity logo
     :align: center
     
@@ -118,7 +107,6 @@ Agora busque e clique no objeto **Caso**, como na figura a seguir:
 Agora, vá até o layout de página de Caso e clique em editar no layout onde irá inserir o botão. Na figura a seguir será inserido no **Case Layout**.
 
 .. figure:: img/layoutsCaso.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
@@ -127,14 +115,12 @@ Agora, vá até o layout de página de Caso e clique em editar no layout onde ir
 Na página de edição de layout, clique em **Botões**, nesse momento verá que tem um botão chamado **Interagir à reclamação**, arraste ele até o campo de **Botões personalizados**, como é demonstrado nas figuras a seguir.
 
 .. figure:: img/botaoReclamacao.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     
     Botão personalinado "Interagir à reclamação"
 
 .. figure:: img/botaoReclamacaoInserido.png
-    :width: 500px
     :alt: Solidity logo
     :align: center
     

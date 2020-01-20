@@ -6,14 +6,12 @@ Cadastro de Nova Conexão
 Para registrar uma nova conexão, abra seu iniciador de aplicativos e selecione o aplicativo do RA Connect, como nas figuras a seguir:
 
 .. figure:: img/iniciadorAplicativos.png
-    :width: 100px
     :alt: Solidity logo
     :align: center
     
     Iniciador de aplicativos.
 
 .. figure:: img/aplicativoRAConnect.png
-    :width: 600px
     :alt: Solidity logo
     :align: center
     
@@ -22,7 +20,6 @@ Para registrar uma nova conexão, abra seu iniciador de aplicativos e selecione 
 Agora vá na aba do **Conexões do RA** e clique em novo ou clique na aba e clique em Criar Conexão do RA, como na figura a seguir:
 
 .. figure:: img/criarConexao.png
-    :width: 600px
     :alt: Solidity logo
     :align: center
     
@@ -31,7 +28,6 @@ Agora vá na aba do **Conexões do RA** e clique em novo ou clique na aba e cliq
 Após clicar em nova conexão aparece a seguinte tela:
 
 .. figure:: img/cadastroConexao.png
-    :width: 600px
     :alt: Solidity logo
     :align: center
     

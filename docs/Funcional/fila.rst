@@ -8,7 +8,6 @@ Antes de registrar uma conexão é necessário ter um fila com suporte ao objeto
 Para criar uma **Fila**, vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
 
 .. figure:: img/configuracao.png
-    :width: 300px
     :alt: Solidity logo
     :align: center
     
@@ -17,7 +16,6 @@ Para criar uma **Fila**, vá até às configurações através da engrenagem no 
 A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na figura a seguir:
 
 .. figure:: img/fila.png
-    :width: 200px
     :alt: Solidity logo
     :align: center
     
@@ -26,7 +24,6 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
 .. figure:: img/novaFila.png
-    :width: 350px
     :alt: Solidity logo
     :align: center
     
@@ -35,21 +32,18 @@ Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da 
 A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 
 .. figure:: img/exemploFila1.png
-    :width: 400px
     :alt: Solidity logo
     :align: center
     
     Preenchimento do nome da fila e o endereço de email.
 
 .. figure:: img/exemploFila2.png
-    :width: 400px
     :alt: Solidity logo
     :align: center
     
     Adicionando os objetos suportados.
 
 .. figure:: img/exemploFila3.png
-    :width: 400px
     :alt: Solidity logo
     :align: center
     
@@ -78,7 +72,6 @@ Fila Conexão
 -----------------------
 
 .. figure:: img/filaConexao.png
-    :width: 600px
     :alt: Solidity logo
     :align: center
     
@@ -90,7 +83,6 @@ Fila Empresa
 -----------------------
 
 .. figure:: img/filaEmpresa.png
-    :width: 600px
     :alt: Solidity logo
     :align: center
     

@@ -1,10 +1,4 @@
 
-#################
-Setup
-#################
-
-O objetivo deste documento é apontar os requisitos necessários e o passo-a-passo para a aplicação da funcionalidade e sua configuração em uma nova organização.
-
 Registro de Domínio para a Organização
 -----------------------
 

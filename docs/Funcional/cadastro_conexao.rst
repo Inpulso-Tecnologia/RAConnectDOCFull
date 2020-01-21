@@ -35,16 +35,16 @@ Após clicar em nova conexão aparece a seguinte tela:
 
 Definições dos campos:
 
-**Intervalo de Sincronização (em Minutos)**: marca a periodicidade de atualização da conexão (em minutos). 
+*   **Intervalo de Sincronização (em Minutos)**: marca a periodicidade de atualização da conexão (em minutos). 
 
-**Ativo**: apenas conexões ativas serão atualizadas de acordo do intervalo de sincronização. 
+*   **Ativo**: apenas conexões ativas serão atualizadas de acordo do intervalo de sincronização. 
 
 **Nome exclusivo da Fila**: será a fila atribuída como proprietária às reclamações captadas pela conexão (caso não tenha uma fila que não suporte o objeto **CASO** veja como criar aqui: :doc:`/Funcional/fila`).
 
 .. Hint:: Fila atribui registros a equipes que compartilham atividades. Para mais informações acesse o seguinte link: https://help.salesforce.com/articleView?id=setting_up_queues.htm
 
-**Usuário do RA API**: usuário da **API da Reclame Aqui**, "RA API". 
+*   **Usuário do RA API**: usuário da **API da Reclame Aqui**, "RA API". 
 
-**Senha do RA API**: senha da **API da Reclame Aqui**, "RA API". 
+*   **Senha do RA API**: senha da **API da Reclame Aqui**, "RA API". 
 
 .. Hint:: Caso não tenha **Usuário e Senha**, será necessário a aquisição do mesmo através do site: https://parasuaempresa.reclameaqui.com.br/ra-api.

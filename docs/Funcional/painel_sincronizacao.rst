@@ -10,7 +10,7 @@ Assim que uma nova conexão for criada, a mesma irá carregar todas as reclamaç
 
 Nesse painel mostra os seguintes status que uma conexão pode ter, como **Conexão Sincronizando**, **Conexão Atualizada**, **Falha**, **Conexão Desativada**. As figuras a seguir demosntram os status comentados.
 
-**Conexão Sincronizando**
+Conexão Sincronizando
 -----------------------
 
 .. figure:: img/conexaoSincronizando.png
@@ -21,7 +21,7 @@ Nesse painel mostra os seguintes status que uma conexão pode ter, como **Conex�
 
 Nesse status, a conexão estará baixando e convertendo as reclamações para o salesforce.
 
-**Conexão Atualizada**
+Conexão Atualizada
 -----------------------
 
 .. figure:: img/conexaoAtualizada.png
@@ -32,7 +32,7 @@ Nesse status, a conexão estará baixando e convertendo as reclamações para o 
 
 Nesse status, a conexão mostrará quando foi feito a última atualização e quando será feito a próxima.
 
-**Falha**
+Falha
 -----------------------
 
 .. figure:: img/conexaoError.png
@@ -43,7 +43,7 @@ Nesse status, a conexão mostrará quando foi feito a última atualização e qu
 
 Nesse status, a conexão mostrará quando foi feito a última atualização e quando será feito a próxima e o erro que aconteceu na última vez que tentou atualizar as reclamações.
 
-**Conexão Desativada**
+Conexão Desativada
 -----------------------
 
 .. figure:: img/conexaoInativa.png
@@ -55,7 +55,7 @@ Nesse status, a conexão mostrará quando foi feito a última atualização e qu
 Nesse status, mostra a última vez que a conexão foi atualizada e contém um botão para ativa-lá, caso necessário.
 
 
-Sincronização desativada
+Sincronização Desativada
 -----------------------
 
 .. figure:: img/sincronizacao.png
@@ -64,4 +64,4 @@ Sincronização desativada
     
     Sincronização desativada.
 
-Caso a sincronização seja desativada, é possível ativá-la clicando no botão "Ativar Sincronização", para isso o usuário deverá ter a permissão para criar um *trabalho agendado* na organização.
+Caso a sincronização seja desativada, é possível ativá-la clicando no botão **Ativar Sincronização**, para isso o usuário deverá ter a permissão para criar um *trabalho agendado* na organização.

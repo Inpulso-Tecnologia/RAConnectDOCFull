@@ -10,7 +10,7 @@ Para que o pacote possa ser baixado primariamente o usuário deve possuir uma or
     
     Acessando **Configurações** da organização.
 
-A seguir digite na barra de busca rápida **"Meu domínio"** e clique nele, como na figura a seguir:
+A seguir digite na barra de busca rápida **Meu domínio** e clique nele, como na figura a seguir:
 
 .. figure:: img/dominio1.png
     :alt: Solidity logo
@@ -28,12 +28,12 @@ Caso não tenha domínio cadastrado, deve-se escolher um nome para o domínio e 
 
 Após a validação confirmada, registrar o domínio do mesmo. Após o registro concluído, o SalesForce pedirá para que logue novamente. 
 
-Após logar, vá para a tela do "Meu domínio" novamente e clique em "Efetuar login".
+Após logar, vá para a tela do **Meu domínio** novamente e clique em **Efetuar login**.
 
 .. figure:: img/dominio3.png
     :align: center
 
-Efetuado login, clique em "Implantar para usuários".
+Efetuado login, clique em **Implantar para usuários**.
 
 .. figure:: img/dominio4.png
     :alt: Solidity logo

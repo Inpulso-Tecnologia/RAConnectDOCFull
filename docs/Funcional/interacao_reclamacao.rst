@@ -1,6 +1,6 @@
 
 #################
-Interações com a reclamação do **Reclame Aqui**
+Interações com a reclamação do Reclame Aqui
 #################
 
 Nessa seção será demosntrado as possíveis interações com as reclamações da **Reclame Aqui**.

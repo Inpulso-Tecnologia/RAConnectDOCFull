@@ -1,11 +1,13 @@
 
 Registro de Domínio para a Organização
------------------------
+--------------------------------------
+
 
 Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio, vá até às configurações através a engrenagem no canto superior direito, como na figura a seguir: 
 
 .. figure:: img/configuracao.png
     :alt: Solidity logo
+    :width: 500px
     :align: center
     
     Acessando **Configurações** da organização.
@@ -33,17 +35,22 @@ Após logar, vá para a tela do **Meu domínio** novamente e clique em **Efetuar
 .. figure:: img/dominio3.png
     :align: center
 
+    Logar no novo domínio
+
 Efetuado login, clique em **Implantar para usuários**.
 
 .. figure:: img/dominio4.png
     :alt: Solidity logo
     :align: center
     
+    Implantar o novo domínio para os usuários
+
 Tendo realizado estas ações, já com o domínio registrado, poderá seguir para a instalação do pacote.
 
 
 Instalação do Pacote Gerenciado
------------------------
+-------------------------------
+
 
 O download do pacote para a sua organização deve ser realizado através do link abaixo:
          
@@ -72,10 +79,11 @@ Depois da confirmação das opções anteriores, o download começará normalmen
     :align: center
     
     Painel de aplicações
-        
+
 
 Adicionando botão de Interação da aplicação
------------------------
+-------------------------------------------
+
 
 Na aplicação do RA Connect é possível interagir com a reclamação traziada do **Reclama Aqui**, todas as reclamações viram **Casos** no Salesforce.
 Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferencia da Organização.
@@ -125,5 +133,3 @@ Na página de edição de layout, clique em **Botões**, nesse momento verá que
     :align: center
     
     Botão adicionado no layout
-
-

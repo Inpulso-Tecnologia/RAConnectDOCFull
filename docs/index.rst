@@ -9,7 +9,7 @@ Na etapa de configuração, será apontado os requisitos necessários e o
 passo-a-passo para a aplicação da funcionalidade e 
 sua configuração em uma nova organização.
 
-* :doc:`Configurando a Organização <Setup/intalacao_pacote>`
+* :doc:`Configurando a Organização <Setup/instalacao_pacote>`
 
 **Funcional**
 

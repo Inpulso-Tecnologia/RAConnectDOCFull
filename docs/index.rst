@@ -41,3 +41,10 @@ reclamações, interações da reclamação e consumidor.
     Funcional/interacao_reclamacao
     Funcional/relacao_objetos
     Funcional/fila
+
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+    :caption: Desinstalação
+
+    Desinstalacao/desinstalacao

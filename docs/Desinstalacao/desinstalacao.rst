@@ -53,38 +53,35 @@ Arraste ele até a área onde ficam os botões (nesse momento o botão **Interag
     :align: center
     
     Botão removido no layout
-
-
-
-
-
-
  
-Depois da remoção das dependências a desinstalação pode ser realizada através dos Pacotes Instalados e para acessá-lo basta entrar em Configuração e procurar por "Pacotes Instalados"
+Depois da remoção da dependência, a desinstalação pode ser realizada através dos **Pacotes Instalados**. 
 
-.. figure:: img/Desinstalar1.png
-    :width: 250px
+Para isso vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
+
+.. figure:: img/configuracao.png
     :alt: Solidity logo
     :align: center
     
-    Pacotes Instalados
+    Acessando **Configurações** da organização.
 
-Nos Pacotes Instalados é possível visualizar todos os pacotes instalados em sua organização, além de poder desinstalá-los. Para a desinstalação é necessário selecionar a ação "Desinstalar"
+A seguir digite na barra de busca rápida **Pacotes Instalados** e clique nele, como na figura a seguir:
 
-.. figure:: img/Desinstalar2.png
-    :width: 700px
+.. figure:: img/pacotesInstalados.png
     :alt: Solidity logo
     :align: center
     
-    Desinstalação
-    
-No final da página será necessário marcar a opção confirmando que deseja desinstalar permanentemente os componentes e clickar no botão "Desinstalar"
+    Barra de pesquisa das configurações
 
-.. figure:: img/Desinstalar3.png
-    :width: 700px
+Nesta página terá os todos pacotes instalados na organização, nesse momento procure pelo pacote nomeado **RA Connect** e em seguida clique em **Desinstalar**, como na figura a seguir:
+
+.. figure:: img/pacotesInstalados.png
     :alt: Solidity logo
     :align: center
     
-    Confirmação da Desinstalação
-    
-Ao confirmar, a desinstalação do Falae será iniciada.
+    Pacote RA Connect na página de pacotes instalados
+
+Agora nesta página estará listado tudo que está sendo removido ao desinstalar o pacote. Ao final da página terá algumas opções adicionais que a pessoa pode marcar, como na figura a seguir:
+
+.. figure:: img/configuracaoDesinstalacao.png
+    :alt: Solidity logo
+    :align: center

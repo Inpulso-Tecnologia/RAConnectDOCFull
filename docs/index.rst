@@ -21,7 +21,7 @@ reclamações, interações da reclamação e consumidor.
 *  :doc:`Cadastrando nova Conexão <Funcional/cadastro_conexao>`
 *  :doc:`Entenda o Painel de Sincronização <Funcional/painel_sincronizacao>`
 *  :doc:`Entenda que tipos de Interações pode ter com as Reclamações <Funcional/interacao_reclamacao>`
-*  :doc:`Entenda a relação de termos do **Reclame AQUI** e os objetos do Salesforce <Funcional/relacao_objetos>`
+*  :doc:`Entenda a relação de termos do "Reclame AQUI" e os objetos do Salesforce <Funcional/relacao_objetos>`
 *  :doc:`Entenda mais sobre filas <Funcional/fila>`
    
 .. toctree::

@@ -4,7 +4,7 @@ Painel de Sincronização
 #################
 
 No painel de sincronização, mostrará o status das suas conexões. 
-Assim que uma nova conexão for criada, a mesma irá carregar todas as reclamações (criadas no site da Reclame Aqui) vinculada a mesma. Essas reclamações serão convertidos em **CASOS** do Salesforce, as interações daquela reclamação serão convertidos em **COMENTARIOS DO CASO** e o consumidor que criou a reclamação vira o **CONTATO** do Salesforce vinculado à esse **CASO**. 
+Assim que uma nova conexão for criada, a mesma irá carregar todas as reclamações (criadas no site da **Reclame AQUI**) vinculada a mesma. Essas reclamações serão convertidos em **CASOS** do Salesforce, as interações daquela reclamação serão convertidos em **COMENTARIOS DO CASO** e o consumidor que criou a reclamação vira o **CONTATO** do Salesforce vinculado à esse **CASO**. 
 
 .. Hint:: Para saber mais sobre a conversão das reclamações para objetos do Salesforce veja em: :doc:`/Funcional/relacao_objetos`.
 

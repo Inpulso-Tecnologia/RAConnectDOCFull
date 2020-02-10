@@ -43,8 +43,8 @@ Definições dos campos:
 
 .. Hint:: Fila atribui registros a equipes que compartilham atividades. Para mais informações acesse o seguinte link: https://help.salesforce.com/articleView?id=setting_up_queues.htm
 
-*   **Usuário do RA API**: usuário da **API da Reclame Aqui**, "RA API". 
+*   **Usuário do RA API**: usuário da **API da Reclame AQUI**, "RA API". 
 
-*   **Senha do RA API**: senha da **API da Reclame Aqui**, "RA API". 
+*   **Senha do RA API**: senha da **API da Reclame AQUI**, "RA API". 
 
 .. Hint:: Caso não tenha **Usuário e Senha**, será necessário a aquisição do mesmo através do site: https://parasuaempresa.reclameaqui.com.br/ra-api.

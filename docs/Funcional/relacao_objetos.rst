@@ -2,7 +2,7 @@
 Relação de Objetos
 #################
 
-Neste tópico estaremos falando sobre o relacionamento entre as reclamações do **Reclame Aqui** com os objetos que o RA Connect utiliza no Salesforce.
+Neste tópico estaremos falando sobre o relacionamento entre as reclamações do **Reclame AQUI** com os objetos que o RA Connect utiliza no Salesforce.
 
 Reclamação
 -----------------------

@@ -17,7 +17,7 @@ Para registrar uma nova conexão, abra seu iniciador de aplicativos e selecione 
     
     Aplicativo do RA Connect.
 
-Agora vá na aba do **Conexões do RA** e clique em novo ou clique na aba e clique em Criar Conexão do RA, como na figura a seguir:
+Agora, vá na aba **Conexões do RA** e clique em novo ou clique na aba e clique em Criar Conexão do RA, como na figura a seguir:
 
 .. figure:: img/criarConexao.png
     :alt: Solidity logo
@@ -25,7 +25,7 @@ Agora vá na aba do **Conexões do RA** e clique em novo ou clique na aba e cliq
     
     Botão Criar Conexão do RA.
 
-Após clicar em nova conexão aparece a seguinte tela:
+Após clicar em nova conexão aparecerá a seguinte tela:
 
 .. figure:: img/cadastroConexao.png
     :alt: Solidity logo
@@ -37,7 +37,7 @@ Definições dos campos:
 
 *   **Intervalo de Sincronização (em Minutos)**: marca a periodicidade de atualização da conexão (em minutos). 
 
-*   **Ativo**: apenas conexões ativas serão atualizadas de acordo do intervalo de sincronização. 
+*   **Ativo**: apenas conexões ativas serão atualizadas de acordo com o intervalo de sincronização. 
 
 **Nome exclusivo da Fila**: será a fila atribuída como proprietária às reclamações captadas pela conexão (caso não tenha uma fila que não suporte o objeto **CASO** veja como criar aqui: :doc:`/Funcional/fila`).
 

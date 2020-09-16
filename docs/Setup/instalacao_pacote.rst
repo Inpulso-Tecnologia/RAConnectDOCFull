@@ -3,7 +3,7 @@ Registro de Domínio para a Organização
 --------------------------------------
 
 
-Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio, vá até às configurações através a engrenagem no canto superior direito, como na figura a seguir: 
+Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no Salesforce que possua o domínio cadastrado. Para cadastrar um domínio, vá até às configurações através a engrenagem no canto superior direito, como na figura a seguir: 
 
 .. figure:: img/configuracao.png
     :alt: Solidity logo
@@ -28,7 +28,7 @@ Caso não tenha domínio cadastrado, deve-se escolher um nome para o domínio e 
     
     Registro de domínio
 
-Após a validação confirmada, registrar o domínio do mesmo. Após o registro concluído, o SalesForce pedirá para que logue novamente. 
+Após a validação ser confirmada, registre o domínio do mesmo. Após o registro concluído, o Salesforce pedirá para que faça o login novamente. 
 
 Após logar, vá para a tela do **Meu domínio** novamente e clique em **Efetuar login**.
 
@@ -64,7 +64,7 @@ O login na sua organização será requerido, e após a realização será autom
     
     Seleção de instalação para todos os perfis
 
-Logo após a confirmação uma notificação aparecerá, sendo necessária a confirmação do seguinte item:
+Logo após a confirmação uma notificação aparecerá, sendo necessária a confirmação do item seguinte:
    
 .. figure:: img/aprovacaoAcesso.png
     :alt: Solidity logo
@@ -72,7 +72,7 @@ Logo após a confirmação uma notificação aparecerá, sendo necessária a con
     
     Garantia de acesso
     
-Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do SalesForce.
+Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do Salesforce.
 
 .. figure:: img/painelAplicacao.png
     :alt: Solidity logo
@@ -85,7 +85,7 @@ Adicionando botão de Interação da aplicação
 -------------------------------------------
 
 
-Na aplicação do RA Connect é possível interagir com a reclamação traziada do **Reclama Aqui**, todas as reclamações viram **Casos** no Salesforce.
+Na aplicação do RA Connect é possível interagir com a reclamação traziada do **Reclame Aqui**, todas as reclamações viram **Casos** no Salesforce.
 Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferencia da Organização.
 
 Para isso vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
@@ -120,13 +120,13 @@ Agora, vá até o layout de página de Caso e clique em editar no layout onde ir
     
     Layouts de página de Caso
 
-Na página de edição de layout, clique em **Botões**, nesse momento verá que tem um botão chamado **Interagir à reclamação**, arraste ele até o campo de **Botões personalizados**, como é demonstrado nas figuras a seguir.
+Na página de edição de layout, clique em **Botões**, nesse momento verá que tem um botão chamado **Interagir à reclamação**, arraste ele até o campo de **Botões personalizados**, como é demonstrados nas figuras a seguir.
 
 .. figure:: img/botaoReclamacao.png
     :alt: Solidity logo
     :align: center
     
-    Botão personalinado **Interagir à reclamação**
+    Botão personalizado **Interagir à reclamação**
 
 .. figure:: img/botaoReclamacaoInserido.png
     :alt: Solidity logo

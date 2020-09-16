@@ -19,7 +19,7 @@ Conexão Sincronizando
     
     Status da conexão quando estiver atualizando.
 
-Nesse status, a conexão estará baixando e convertendo as reclamações para o salesforce.
+Nesse status, a conexão estará baixando e convertendo as reclamações para o Salesforce.
 
 Conexão Atualizada
 -----------------------

@@ -13,7 +13,7 @@ Reclamação
     
     Caso criado a partir de uma reclamação.
 
-As reclamações baixadas pela conexão serão transformadas em **casos** no Salesforce, dados da reclamação como o titulo, interações e quem abriu a reclamação serão transformadas em dados do **caso** criado.
+As reclamações baixadas pela conexão serão transformadas em **casos** no Salesforce, dados da reclamação como o titulo, interações e quem abriu a reclamação serão transformados em dados do **caso** criado.
 
 Interação
 -----------------------

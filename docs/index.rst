@@ -1,7 +1,7 @@
 RAConnect
 ========
 
-Bem vindo a documentação da aplicação salesforce "RA Connect". Neste documento será possível verificar todas as funcionalidades e suas configurações, além da instalação da própria aplicação.
+Bem-vindo a documentação da aplicação salesforce "RA Connect". Neste documento será possível verificar todas as funcionalidades e suas configurações, além da instalação da própria aplicação.
 
 **Configuração**
 

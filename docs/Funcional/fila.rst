@@ -3,7 +3,7 @@ Filas
 #################
 
 Neste tópico estaremos falando sobre filas de usuários no Salesforce e como utilizamos essa funcionalidade na nossa aplicação.
-Antes de registrar uma conexão é necessário ter um fila com suporte ao objeto **CASO**, caso não tenha uma fila com suporte a esse objeto, mostraremos como criar seguir.
+Antes de registrar uma conexão é necessário ter um fila com suporte ao objeto **CASO**, caso não tenha uma fila com suporte a esse objeto, mostraremos como criar a seguir.
 
 Para criar uma **Fila**, vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
 
@@ -19,7 +19,7 @@ A seguir digite na barra de busca rápida **"Filas"** e clique nele, como na fig
     :alt: Solidity logo
     :align: center
     
-    Pesquisa por **Fila**, no campo de busca rápida.
+    Pesquisa por **Filas**, no campo de busca rápida.
 
 Agora clique no botão **Novo** e a seguir terá uma explicação dos campos da Fila:
 
@@ -58,7 +58,7 @@ A seguir terá um exemplo de criação de uma fila para a nossa aplicação.
 |                          | o campo "Nome exclusivo da fila", na conexão ou na empresa.               |
 +--------------------------+---------------------------------------------------------------------------+
 | Email da fila            | Será o e-mail que receberá as notificações quando tiver algum objeto |br| |
-|                          | novo na fila, caso  o campo "Enviar email aos membros" esteja marcado.    |
+|                          | novo na fila, caso o campo "Enviar email aos membros" esteja marcado.    |
 +--------------------------+---------------------------------------------------------------------------+
 | Enviar email aos membros | Habilita ou desabilita o envio de notificações por e-mail.                |
 +--------------------------+---------------------------------------------------------------------------+
@@ -77,7 +77,7 @@ Fila Conexão
     
     Nome da fila padrão da conexão.
 
-O campo "Nome Exclusivo da Fila", na conexão é um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados pela integração, caso a empresa não tenha uma fila registrada.
+O campo "Nome Exclusivo da Fila", na conexão é um campo obrigatório, a fila cadastrada nesse campo será atribuída como proprietária das reclamações geradas pela integração, caso a empresa não tenha uma fila registrada.
 
 Fila Empresa
 -----------------------
@@ -88,7 +88,7 @@ Fila Empresa
     
     Nome da fila que será proprietária das reclamações dessa empresa.
 
-O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada nesse campo será atribuida como proprietária das reclamações gerados dessa empresa.
+O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada nesse campo será atribuída como proprietária das reclamações geradas dessa empresa.
 
 Regras da Fila
 -----------------------

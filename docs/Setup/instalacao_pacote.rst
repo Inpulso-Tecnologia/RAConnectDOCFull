@@ -85,7 +85,7 @@ Adicionando botão de Interação da aplicação
 -------------------------------------------
 
 
-Na aplicação do RA Connect é possível interagir com a reclamação traziada do **Reclame Aqui**, todas as reclamações viram **Casos** no Salesforce.
+Na aplicação do RA Connect é possível interagir com a reclamação traziada do **ReclameAQUI**, todas as reclamações viram **Casos** no Salesforce.
 Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferencia da Organização.
 
 Para isso vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:

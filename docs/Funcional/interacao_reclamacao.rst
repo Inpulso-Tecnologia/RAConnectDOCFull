@@ -1,9 +1,9 @@
 
 #################
-Interações com a reclamação do **Reclame AQUI**
+Interações com a reclamação do **ReclameAQUI**
 #################
 
-Nessa seção será demosntrado as possíveis interações com as reclamações da **Reclame AQUI**.
+Nessa seção será demosntrado as possíveis interações com as reclamações da **ReclameAQUI**.
 Para interagir com alguma reclamação, será necessário ir no caso relacionado com a reclamação em questão e clicar em expandir os botões de ação, aparecendo a opção **Interagir à Reclamação** como na figura a seguir.
 
 .. figure:: img/interagirReclamacao.png
@@ -12,7 +12,7 @@ Para interagir com alguma reclamação, será necessário ir no caso relacionado
     
     Botão Interagir à Reclamação
 
-.. Hint:: Só é possível interagir à casos criados através da nossa aplicação, caso seja um caso não vinculado com nossa aplicação ou que tenha perdido o vinculo com a **Reclame AQUI**, aparecerá uma mensagem de erro. 
+.. Hint:: Só é possível interagir à casos criados através da nossa aplicação, caso seja um caso não vinculado com nossa aplicação ou que tenha perdido o vinculo com a **ReclameAQUI**, aparecerá uma mensagem de erro. 
 
 
 Responder Publicamente
@@ -65,7 +65,7 @@ Definições dos campos:
 Solicitar Moderação
 -----------------------
 
-Solicita uma revisão da reclamação para a equipe de qualidade da **Reclame AQUI**.
+Solicita uma revisão da reclamação para a equipe de qualidade da **ReclameAQUI**.
 
 .. figure:: img/solicitarModeracao.png
     :alt: Solidity logo
@@ -77,4 +77,4 @@ Definições dos campos:
 
 **Motivo**: motivo para a revisão da reclamação.
 
-**Descrição**: será a mensagem enviada para a equipe de qualidade da **Reclame AQUI**.
+**Descrição**: será a mensagem enviada para a equipe de qualidade da **ReclameAQUI**.

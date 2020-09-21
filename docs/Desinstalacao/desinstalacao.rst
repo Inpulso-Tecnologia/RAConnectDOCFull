@@ -44,9 +44,9 @@ Na página de edição de layout, clique em **Botões**, nesse momento verá que
     :alt: Solidity logo
     :align: center
     
-    Botão personalinado **Interagir à reclamação** no campo de **Botões personalizados**
+    Botão personalizado **Interagir à reclamação** no campo de **Botões personalizados**
 
-Arraste ele até a área onde ficam os botões (nesse momento o botão **Interagir à reclamação** ficará habilidado, indicando que ele não é mais usado no layout).
+Arraste ele até a área onde ficam os botões (nesse momento o botão **Interagir à reclamação** ficará habilitado, indicando que ele não é mais usado no layout).
 
 .. figure:: img/botaoReclamacaoRemovido.png
     :alt: Solidity logo

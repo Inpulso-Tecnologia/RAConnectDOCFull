@@ -77,7 +77,7 @@ Fila Conexão
     
     Nome da fila padrão da conexão.
 
-O campo "Nome Exclusivo da Fila", na conexão é um campo obrigatório, a fila cadastrada nesse campo será atribuída como proprietária das reclamações geradas pela integração, caso a empresa não tenha uma fila registrada.
+O campo "Nome Exclusivo da Fila", na conexão é um campo obrigatório, a fila cadastrada neste campo será atribuída como proprietária das reclamações geradas pela integração, caso a empresa não tenha uma fila registrada.
 
 Fila Empresa
 -----------------------
@@ -88,13 +88,13 @@ Fila Empresa
     
     Nome da fila que será proprietária das reclamações dessa empresa.
 
-O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada nesse campo será atribuída como proprietária das reclamações geradas dessa empresa.
+O campo "Nome Exclusivo da Fila", na empresa **não é** um campo obrigatório, a fila cadastrada neste campo será atribuída como proprietária das reclamações geradas dessa empresa.
 
 Regras da Fila
 -----------------------
 
 A fila cadastrada na conexão será a proprietária dos **casos** integrados com o Salesforce, caso não haja uma **fila** cadastrada na **Empresa do RA**, se houver uma **fila** cadastrada na **Empresa do RA**, essa **fila** será a proprietária do **caso**.
-Se tivermos várias **Empresas do RA** associadas à mesma **conexão**, cada empresa poderá ter sua própria fila, caso contrário será atribuido com a fila padrão da conexão.
+Se tivermos várias **Empresas do RA** associadas à mesma **conexão**, cada empresa poderá ter sua própria fila, caso contrário será atribuído com a fila padrão da conexão.
 
 .. |br| raw:: html
 

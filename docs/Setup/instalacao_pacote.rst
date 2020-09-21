@@ -72,7 +72,7 @@ Logo após a confirmação uma notificação aparecerá, sendo necessária a con
     
     Garantia de acesso
     
-Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do Salesforce.
+Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a aplicação já estará visível para o cliente através dos aplicativos do Salesforce.
 
 .. figure:: img/painelAplicacao.png
     :alt: Solidity logo
@@ -86,7 +86,7 @@ Adicionando botão de Interação da aplicação
 
 
 Na aplicação do RA Connect é possível interagir com a reclamação trazida do **ReclameAQUI**, todas as reclamações viram **Casos** no Salesforce.
-Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferencia da Organização.
+Para poder interagir com a reclamação será necessário adicionar um botão personalizado no layout de Caso, da preferência da Organização.
 
 Para isso vá até às configurações através da engrenagem no canto superior direito, como na figura a seguir:
 
@@ -133,3 +133,6 @@ Na página de edição de layout, clique em **Botões**, nesse momento verá que
     :align: center
     
     Botão adicionado no layout
+
+
+

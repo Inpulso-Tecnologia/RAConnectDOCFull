@@ -54,7 +54,7 @@ Instalação do Pacote Gerenciado
 
 O download do pacote para a sua organização deve ser realizado através do link abaixo:
          
-        https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3k0000023CD7
+        https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3k0000023CFm
          
 O login na sua organização será requerido, e após a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
 

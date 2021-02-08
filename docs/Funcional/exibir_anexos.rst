@@ -1,50 +1,39 @@
 #################
-Exibir Anexos
+Exibir Anexos da Reclamação
 #################
 
-Para ver os anexos adicionados, abra a pagina chamada "Casos", encontre sua reclamação via pesquisa ou na própria tabela, e então abra a mesma, clique na seta ao lado para abrir o menu, e clique em "exibir anexos" como nas figuras a seguir:
+Para ver os anexos pertencentes a uma reclamação, acesse a página "Casos" e encontre o Caso referente à reclamação. Após abrir a página do Caso, clique em expandir os botões de ação, aparecendo a opção Exibir Anexos como na figura a seguir:
 
-.. figure:: img/pgInicial.png
+.. figure:: img/botaoExibirAnexos.png
     :alt: Solidity logo
     :align: center
     
-    Página Inicial.
+    Botão Exibir Anexo destacado
 
-.. figure:: img/PgCasos.png
+
+Se a reclamação possuir anexos, estes serão mostrados na tela:
+
+.. figure:: img/anexosExibidos.png
     :alt: Solidity logo
     :align: center
     
-    Página de Casos.
+    Poderá então fazer download do anexo desejado apenas clicando nele.
 
-.. figure:: img/BotaoExibirAnexos.png
-    :alt: Solidity logo
-    :align: center
+
+.. Hint:: Quanto mais anexos pertencentes à reclamação, mais tempo será necessário para buscá-los do sistema.
     
-    Exibir Anexos do caso.
-
-Após entrar na página de "Exibir Anexos" vai depender do caso possuir anexos ou não, caso o mesmo não possua nenhum anexo, assim que abrir, o titulo dizendo "Nenhum Anexo Encontrado!!" irá aparecer no título da página.
+Se a reclamação não possuir nenhum anexo, a mensagem dizendo "Nenhum Anexo Encontrado!!" irá aparecer no título da página.
 
 .. figure:: img/NenhumAnexoEncontrado.png
     :alt: Solidity logo
     :align: center
     
-    Caso não possui nenhum anexo cadastrado no sistema!!.
-
-Em Alguns casos, pode ocorrer na reclamação não existir mais no banco de dados, caso isso ocorra, um Pop-up onde irá dizer que o mesmo não foi encontrado no sistema.
+    Apenas para Reclamações sem anexo
+    
+Se o Caso não possuir reclamação no banco de dados, um Pop-up notificará o usuário dizendo que nenhuma reclamação foi encontrada:
 
 .. figure:: img/pop-up.png
     :alt: Solidity logo
     :align: center
     
-    Pop-up de inexistente no sistema!!.
-
-Ao entrar na página, caso o sistema identifique que o caso expecifico possui anexo, o mesmo irá carregar fotos, gifs e pdfs dos mesmos, podendo ser clicados para baixa-los, alem de mostrar em seu titulo, quantos anexos foram encontrados.
-
-.. figure:: img/AnexosCarregados.png
-    :alt: Solidity logo
-    :align: center
-    
-    Pop-up de inexistente no sistema!!.
-
-
-.. Hint:: Dependendo da quantidade de anexos que esse caso possua, mais deva demorar para a tela carregar pela grande quantidade de buscas ao sistema.
+    Apenas para Casos sem reclamações

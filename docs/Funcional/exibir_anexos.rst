@@ -2,10 +2,10 @@
 Exibir Anexos da Reclamação
 #################
 
-Para habilitar a funcionalidade do botão "Exibir Anexos", é necessário primeiro adicioná-lo ao Layout do Caso.
+Para habilitar a funcionalidade do botão "Anexos da Reclmação", é necessário primeiro adicioná-lo ao Layout do Caso.
 Em Configuração, vá em Gerenciador de objetos e procure por Caso, como na figura:
 
-.. figure:: img/ClicarCaso.png
+.. figure:: img/clicarCaso.png
     :alt: Solidity logo
     :align: center
     
@@ -13,7 +13,7 @@ Em Configuração, vá em Gerenciador de objetos e procure por Caso, como na fig
 
 Depois, clicar em "Layouts de página de Caso", escolher o Layout desejado e clicar em Editar, como na figura:
 
-.. figure:: img/ClicarLayoutCaso.png
+.. figure:: img/clicarLayoutCaso.png
     :alt: Solidity logo
     :align: center
     
@@ -22,7 +22,7 @@ Depois, clicar em "Layouts de página de Caso", escolher o Layout desejado e cli
 
 Na tela de edição de Layout, na seção "Ações do Salesforce móvel e do Lightning Experience", clicar em "substituir as ações predeterminadas":
 
-.. figure:: img/LayoutCasoEditar1.png
+.. figure:: img/casoLayoutEditar1.png
     :alt: Solidity logo
     :align: center
     
@@ -31,20 +31,20 @@ Na tela de edição de Layout, na seção "Ações do Salesforce móvel e do Lig
 
 Depois, procurar por "Ações móveis e do Lightning" e arrastar "Exibir Anexos" para a seção "Ações do Salesforce móvel e do Lightning Experience", como nas figuras abaixo:
 
-.. figure:: img/LayoutCasoEditar2.png
+.. figure:: img/casoLayoutEditar2.png
     :alt: Solidity logo
     :align: center
     
-.. figure:: img/LayoutCasoEditar3.png
+.. figure:: img/casoLayoutEditar3.png
     :alt: Solidity logo
     :align: center
     
     Após estes passos, é só clicar em Salvar
     
 
-Para ver os anexos pertencentes a uma reclamação, acesse a página "Casos" e encontre o Caso referente à reclamação. Após abrir a página do Caso, clique em expandir os botões de ação, aparecendo a opção Exibir Anexos como na figura a seguir:
+Para ver os anexos pertencentes a uma reclamação, acesse a página "Casos" e encontre o Caso referente à reclamação. Após abrir a página do Caso, clique no botão Anexos da Reclamação:
 
-.. figure:: img/botaoExibirAnexos.png
+.. figure:: img/botaoAnexosReclamacao.png
     :alt: Solidity logo
     :align: center
     
@@ -65,7 +65,7 @@ Se a reclamação possuir anexos, estes serão mostrados na tela:
 
 Se a reclamação não possuir nenhum anexo, a mensagem dizendo "Nenhum Anexo Encontrado!!" irá aparecer no título da página.
 
-.. figure:: img/NenhumAnexoEncontrado.png
+.. figure:: img/enhumAnexoEncontrado.png
     :alt: Solidity logo
     :align: center
     

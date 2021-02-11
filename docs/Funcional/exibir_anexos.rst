@@ -29,7 +29,7 @@ Na tela de edição de Layout, na seção "Ações do Salesforce móvel e do Lig
     É possível que este passo não seja necessário!
 
 
-Depois, procurar por "Ações móveis e do Lightning" e arrastar "Exibir Anexos" para a seção "Ações do Salesforce móvel e do Lightning Experience", como nas figuras abaixo:
+Depois, procurar por "Ações móveis e do Lightning" e arrastar "Anexos da Reclamação" para a seção "Ações do Salesforce móvel e do Lightning Experience", como nas figuras abaixo:
 
 .. figure:: img/casoLayoutEditar2.png
     :alt: Solidity logo
@@ -48,7 +48,7 @@ Para ver os anexos pertencentes a uma reclamação, acesse a página "Casos" e e
     :alt: Solidity logo
     :align: center
     
-    Botão Exibir Anexo destacado
+    Botão Anexos da Reclamação destacado
 
 
 Se a reclamação possuir anexos, estes serão mostrados na tela:
@@ -65,7 +65,7 @@ Se a reclamação possuir anexos, estes serão mostrados na tela:
 
 Se a reclamação não possuir nenhum anexo, a mensagem dizendo "Nenhum Anexo Encontrado!!" irá aparecer no título da página.
 
-.. figure:: img/enhumAnexoEncontrado.png
+.. figure:: img/nenhumAnexoEncontrado.png
     :alt: Solidity logo
     :align: center
     

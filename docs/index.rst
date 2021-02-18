@@ -30,7 +30,7 @@ reclamações, interações da reclamação e consumidor.
    :caption: Primeiros Passos
    
    Setup/instalacao_pacote
-   Setup/anexos_relamacao
+   Setup/anexos_reclamacao
 
 .. toctree::
     :maxdepth: 2

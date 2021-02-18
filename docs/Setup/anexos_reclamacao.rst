@@ -2,12 +2,12 @@
 Exibir Anexos da Reclamação
 #################
 
-Há dois botões para a funcionalidade de exibir os anexos: um para a experiência Classic (que também funciona no Lightning) e outro apenas para Lightning.
+Há dois botões para a funcionalidade de exibir os anexos: um para a experiência Classic e outro para Lightning.
 
-.. Hint:: O botão para a experiência do Lightning só funciona se o Chatter estiver desativado.
+Adicionando o botão no Classic
+-----------------------
 
-Para habilitar a funcionalidade dos botões "Anexos da Reclamação", é necessário primeiro adicioná-los ao Layout do Caso.
-Em Configuração, vá em Gerenciador de objetos e procure por Caso, como na figura:
+Em **Configuração**, vá em **Gerenciador de objetos** e procure por **Caso**, como na figura:
 
 
 .. figure:: img/clicarCaso.png
@@ -17,7 +17,7 @@ Em Configuração, vá em Gerenciador de objetos e procure por Caso, como na fig
     Clicar em Caso
 
 
-Depois, clicar em "Layouts de página de Caso", escolher o Layout desejado e clicar em Editar, como na figura:
+Depois, clicar em **Layouts de página de Caso**, escolher o Layout desejado e clicar em Editar, como na figura:
 
 
 .. figure:: img/clicarLayoutCaso.png
@@ -27,45 +27,80 @@ Depois, clicar em "Layouts de página de Caso", escolher o Layout desejado e cli
     Clicar em Editar
 
 
-**Primeiro vamos adicionar o botão para a experiência do Lightning:**
-
-Na tela de edição de Layout, na seção "Ações do Salesforce móvel e do Lightning Experience", clicar em "substituir as ações predeterminadas":
-
+Clique em **Botões** e arraste o botão **Anexos da Reclamação** para a seção de botões personalizados:
 
 .. figure:: img/casoLayoutEditar1.png
     :alt: Solidity logo
     :align: center
-    
-    É possível que este passo não seja necessário!
-
-
-Depois, procurar por "Ações móveis e do Lightning" e arrastar a **Ação Rápida** "Anexos da Reclamação" para a seção "Ações do Salesforce móvel e do Lightning Experience", como nas figuras abaixo:
-
 
 .. figure:: img/casoLayoutEditar2.png
     :alt: Solidity logo
     :align: center
-    
-.. figure:: img/casoLayoutEditar3.png
-    :alt: Solidity logo
-    :align: center
-    
-    Este é o botão que funciona apenas no Lightning e com o Chatter desativado!
-    
-
-.. Hint:: Se o Chatter não puder ser desativado, arraste o outro elemento "Anexos da Reclamação" ao invés deste da foto.
-
-**Agora, adicionaremos o botão para a experiência do Classic:**
-
-.. figure:: img/casoLayoutEditar4.png
-    :alt: Solidity logo
-    :align: center
-
-.. figure:: img/casoLayoutEditar5.png
-    :alt: Solidity logo
-    :align: center
 
     Agora é só clicar em Salvar!
+
+
+Adicionando o botão no Lightning (Com Chatter)
+-----------------------
+
+**Se a sua organização utiliza Chatter, siga estes passos:**
+
+
+Acesse a página de qualquer Caso em sua organização e clique em **Editar Página**:
+
+
+.. figure:: img/casoEditarPagina.png
+    :alt: Solidity logo
+    :align: center
+
+
+Clique na **seção** da página onde o botão ficará (1), depois em **Adicionar ação** (2).
+Pesquise por **Anexos da Reclamação** (3) e clique em **Concluído** (4):
+
+.. figure:: img/casoLightningEditar1.png
+    :alt: Solidity logo
+    :align: center
+
+
+Agora arraste a ação **Anexos da Reclamação** onde desejar (1), salve (2) e clique em Ativação... (3):
+
+.. figure:: img/casoLightningEditar2.png
+    :alt: Solidity logo
+    :align: center
+
+    Agora é só seguir o processo de Ativação!
+
+
+Adicionando o botão no Lightning (Sem Chatter)
+-----------------------
+
+**Se a sua organização não utiliza Chatter, siga estes passos:**
+
+Em **Configuração**, vá em **Gerenciador de objetos** e procure por **Caso**, como na figura:
+
+
+.. figure:: img/clicarCaso.png
+    :alt: Solidity logo
+    :align: center
+    
+    Clicar em Caso
+
+
+Depois, clicar em **Layouts de página de Caso**, escolher o Layout desejado e clicar em Editar, como na figura:
+
+
+.. figure:: img/clicarLayoutCaso.png
+    :alt: Solidity logo
+    :align: center
+    
+    Clicar em Editar
+
+
+
+
+
+Visualizando Anexos
+-----------------------
 
 
 Para ver os anexos pertencentes a uma reclamação, acesse a página "Casos" e encontre o Caso referente à reclamação. Após abrir a página do Caso, clique no botão Anexos da Reclamação:

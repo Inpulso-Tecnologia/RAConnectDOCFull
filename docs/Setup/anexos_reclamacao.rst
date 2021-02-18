@@ -4,7 +4,7 @@ Exibir Anexos da Reclamação
 
 Há dois botões para a funcionalidade de exibir os anexos: um para a experiência Classic (que também funciona no Lightning) e outro apenas para Lightning.
 
-.. Obs:: O botão para a experiência do Lightning só funciona se o Chatter estiver desativado.
+.. Hint:: O botão para a experiência do Lightning só funciona se o Chatter estiver desativado.
 
 Para habilitar a funcionalidade dos botões "Anexos da Reclamação", é necessário primeiro adicioná-los ao Layout do Caso.
 Em Configuração, vá em Gerenciador de objetos e procure por Caso, como na figura:
@@ -27,7 +27,7 @@ Depois, clicar em "Layouts de página de Caso", escolher o Layout desejado e cli
     Clicar em Editar
 
 
-Primeiro vamos adicionar o botão para a experiência do Lightning:
+**Primeiro vamos adicionar o botão para a experiência do Lightning:**
 
 Na tela de edição de Layout, na seção "Ações do Salesforce móvel e do Lightning Experience", clicar em "substituir as ações predeterminadas":
 
@@ -39,7 +39,7 @@ Na tela de edição de Layout, na seção "Ações do Salesforce móvel e do Lig
     É possível que este passo não seja necessário!
 
 
-Depois, procurar por "Ações móveis e do Lightning" e arrastar a Ação Rápida "Anexos da Reclamação" para a seção "Ações do Salesforce móvel e do Lightning Experience", como nas figuras abaixo:
+Depois, procurar por "Ações móveis e do Lightning" e arrastar a **Ação Rápida** "Anexos da Reclamação" para a seção "Ações do Salesforce móvel e do Lightning Experience", como nas figuras abaixo:
 
 
 .. figure:: img/casoLayoutEditar2.png
@@ -53,10 +53,9 @@ Depois, procurar por "Ações móveis e do Lightning" e arrastar a Ação Rápid
     Este é o botão que funciona apenas no Lightning e com o Chatter desativado!
     
 
-.. Obs:: Se o Chatter não puder ser desativado, arraste o outro elemento "Anexos da Reclamação" ao invés deste da foto.
+.. Hint:: Se o Chatter não puder ser desativado, arraste o outro elemento "Anexos da Reclamação" ao invés deste da foto.
 
-
-Agora, adicionaremos o botão para a experiência do Classic:
+**Agora, adicionaremos o botão para a experiência do Classic:**
 
 .. figure:: img/casoLayoutEditar4.png
     :alt: Solidity logo

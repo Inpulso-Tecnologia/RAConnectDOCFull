@@ -30,6 +30,7 @@ reclamações, interações da reclamação e consumidor.
    :caption: Primeiros Passos
    
    Setup/instalacao_pacote
+   Setup/anexos_relamacao
 
 .. toctree::
     :maxdepth: 2
@@ -39,7 +40,6 @@ reclamações, interações da reclamação e consumidor.
     Funcional/cadastro_conexao
     Funcional/painel_sincronizacao
     Funcional/interacao_reclamacao
-    Funcional/exibir_anexos
     Funcional/relacao_objetos
     Funcional/fila
 

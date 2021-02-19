@@ -17,7 +17,7 @@ Em **Configuração**, vá em **Gerenciador de objetos** e procure por **Caso**,
     Clicar em Caso
 
 
-Depois, clicar em **Layouts de página de Caso**, escolher o Layout desejado e clicar em Editar, como na figura:
+Depois, clique em **Layouts de página de Caso**, escolha o Layout desejado e clicque em **Editar**, como na figura:
 
 
 .. figure:: img/clicarLayoutCaso.png
@@ -86,7 +86,7 @@ Em **Configuração**, vá em **Gerenciador de objetos** e procure por **Caso**,
     Clicar em Caso
 
 
-Depois, clicar em **Layouts de página de Caso**, escolher o Layout desejado e clicar em Editar, como na figura:
+Depois, clique em **Layouts de página de Caso**, escolha o Layout desejado e clicque em **Editar**, como na figura:
 
 
 .. figure:: img/clicarLayoutCaso.png
@@ -96,14 +96,24 @@ Depois, clicar em **Layouts de página de Caso**, escolher o Layout desejado e c
     Clicar em Editar
 
 
+Clique em **Ações móveis e do Lightning** e arraste a Ação rápida **Anexos da Reclamação** para a seção **Ações do Salesforce móvel e do Lightning Experience**:
 
+.. figure:: img/casoLightningEditar3.png
+    :alt: Solidity logo
+    :align: center
+
+.. figure:: img/casoLightningEditar4.png
+    :alt: Solidity logo
+    :align: center
+
+    Agora é só clicar em Salvar!
 
 
 Visualizando Anexos
 -----------------------
 
 
-Para ver os anexos pertencentes a uma reclamação, acesse a página "Casos" e encontre o Caso referente à reclamação. Após abrir a página do Caso, clique no botão Anexos da Reclamação:
+Para ver os anexos pertencentes a uma reclamação, acesse a página **Casos** e encontre o Caso referente à reclamação. Depois é só clicar no botão **Anexos da Reclamação**:
 
 .. figure:: img/botaoAnexosReclamacao.png
     :alt: Solidity logo

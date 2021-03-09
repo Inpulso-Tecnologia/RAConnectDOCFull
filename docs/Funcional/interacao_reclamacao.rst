@@ -47,6 +47,8 @@ Definições dos campos:
 
 **Descrição**: será a mensagem enviada para o consumidor.
 
+**Anexar Arquivos**: serão os arquivos em anexos enviados para o consumidor.
+
 Solicitar Avaliação
 -----------------------
 

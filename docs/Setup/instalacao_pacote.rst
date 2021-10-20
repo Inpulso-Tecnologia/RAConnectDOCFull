@@ -50,13 +50,9 @@ Tendo realizado estas ações, já com o domínio registrado, poderá seguir par
 
 Instalação do Pacote Gerenciado
 -------------------------------
-
-
-O download do pacote para a sua organização deve ser realizado através do link abaixo:
+.. Hint:: O download do pacote para a sua organização deve ser realizado através do link disponibilizado separadamente.
          
-        https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3k000001vAu4
-         
-O login na sua organização será requerido, e após a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
+Ao acessar o link do pacote, o login na sua organização será requerido, e após a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
 
 .. figure:: img/downloadPacote.png
     :alt: Solidity logo

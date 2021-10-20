@@ -50,9 +50,10 @@ Tendo realizado estas ações, já com o domínio registrado, poderá seguir par
 
 Instalação do Pacote Gerenciado
 -------------------------------
+        
+Ao realizar o download do pacote, o login na sua organização será requerido, e após a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
+
 .. Hint:: O download do pacote para a sua organização deve ser realizado através do link disponibilizado separadamente.
-         
-Ao acessar o link do pacote, o login na sua organização será requerido, e após a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
 
 .. figure:: img/downloadPacote.png
     :alt: Solidity logo
